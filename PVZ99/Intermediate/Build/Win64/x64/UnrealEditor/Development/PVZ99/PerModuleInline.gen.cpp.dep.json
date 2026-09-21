@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\neutron lab\\documents\\pvzgamejam1\\pvz99\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pvz99\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\neutron lab\\documents\\pvzgamejam1\\pvz99\\intermediate\\build\\win64\\x64\\pvz99editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\neutron lab\\documents\\pvzgamejam1\\pvz99\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pvz99\\definitions.pvz99.h",
+            "c:\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

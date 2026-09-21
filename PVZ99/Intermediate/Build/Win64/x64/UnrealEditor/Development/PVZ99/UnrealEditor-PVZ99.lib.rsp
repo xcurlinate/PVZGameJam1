@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PVZ99.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Intermediate/Build/Win64/x64/PVZ99Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Intermediate/Build/Win64/x64/UnrealEditor/Development/PVZ99/PVZ99.cpp.obj"
+"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Intermediate/Build/Win64/x64/UnrealEditor/Development/PVZ99/PerModuleInline.gen.cpp.obj"
+"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Intermediate/Build/Win64/x64/UnrealEditor/Development/PVZ99/Default.rc2.res"
+/OUT:"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Intermediate/Build/Win64/x64/UnrealEditor/Development/PVZ99/UnrealEditor-PVZ99.lib"
