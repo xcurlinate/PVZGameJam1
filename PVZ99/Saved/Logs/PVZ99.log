@@ -3863,3 +3863,345 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.22-18.39.33:082][702]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GridTile_Auto3
 [2026.09.22-18.39.33:082][702]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile_Auto3FE6C0191458377C262FA06B23587B178.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Blueprints/BP_GridTile_Auto3.uasset'
 [2026.09.22-18.39.33:083][702]LogFileHelpers: Auto-saving content packages took 0.051
+[2026.09.22-18.40.42:553][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.09.22-18.40.43:048][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-18.40.43:109][754]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.22-18.40.43:149][754]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_GridTile.BP_GridTile]
+[2026.09.22-18.40.43:149][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.22-18.40.43:149][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.22-18.40.43:160][754]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.22-18.40.43:160][754]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile4EF6DC454EB7ABF71756539F4D7926EB.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.22-18.40.43:169][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.470 ms (total: 1.55 sec)
+[2026.09.22-18.40.43:226][754]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.22-18.40.43:226][754]LogContentValidation: Enabled validators:
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-18.40.43:226][754]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-18.40.43:226][754]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.22-18.40.44:635][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.22-18.40.44:643][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.22-18.40.44:643][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.22-18.40.44:644][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001266s)
+[2026.09.22-18.40.44:644][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.001298s)
+[2026.09.22-18.40.44:668][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.22-18.40.44:675][904]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.22-18.40.44:676][904]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2026.09.22-18.40.44:677][904]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.22-18.40.44:677][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.22-18.40.44:677][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.22-18.40.44:677][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.22-18.40.44:677][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.22-18.40.44:677][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.22-18.40.44:679][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.22-18.40.44:695][904]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX QuadCast S)
+[2026.09.22-18.40.44:695][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.22-18.40.44:695][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.22-18.40.44:695][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.22-18.40.44:696][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.09.22-18.40.44:696][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.09.22-18.40.44:698][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.09.22-18.40.44:698][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.09.22-18.40.44:698][904]LogInit: FAudioDevice initialized with ID 38.
+[2026.09.22-18.40.44:698][904]LogAudio: Display: Audio Device (ID: 38) registered with world 'Lawn_Test'.
+[2026.09.22-18.40.44:698][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.09.22-18.40.44:701][904]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.22-18.40.44:702][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.22-19.40.44
+[2026.09.22-18.40.44:702][904]LogWorld: Bringing up level for play took: 0.000444
+[2026.09.22-18.40.44:703][904]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.09.22-18.40.44:712][904]LogBlueprintUserMessages: [BP_PlayerController_C_0] Player controller works
+[2026.09.22-18.40.44:713][904]PIE: Server logged in
+[2026.09.22-18.40.44:714][904]PIE: Play in editor total start time 0.075 seconds.
+[2026.09.22-18.40.44:776][904]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.22-18.40.44:834][906]LogBlueprintUserMessages: [BP_GridTile_C_29] HOVER
+[2026.09.22-18.40.44:842][907]LogBlueprintUserMessages: [BP_GridTile_C_20] HOVER
+[2026.09.22-18.40.45:067][934]LogBlueprintUserMessages: [BP_GridTile_C_11] HOVER
+[2026.09.22-18.40.45:125][941]LogBlueprintUserMessages: [BP_GridTile_C_20] HOVER
+[2026.09.22-18.40.45:583][996]LogBlueprintUserMessages: [BP_GridTile_C_21] HOVER
+[2026.09.22-18.40.45:930][ 37]LogBlueprintUserMessages: [BP_GridTile_C_21] false
+[2026.09.22-18.40.45:930][ 37]LogBlueprintUserMessages: [BP_GridTile_C_21] Tile Clicked
+[2026.09.22-18.40.45:931][ 37]LogBlueprintUserMessages: [BP_GridTile_C_21] SpawnSprite
+[2026.09.22-18.40.46:314][ 83]LogBlueprintUserMessages: [BP_GridTile_C_21] HOVER
+[2026.09.22-18.40.46:364][ 89]LogBlueprintUserMessages: [BP_GridTile_C_22] HOVER
+[2026.09.22-18.40.46:531][109]LogBlueprintUserMessages: [BP_GridTile_C_22] false
+[2026.09.22-18.40.46:531][109]LogBlueprintUserMessages: [BP_GridTile_C_22] Tile Clicked
+[2026.09.22-18.40.46:532][109]LogBlueprintUserMessages: [BP_GridTile_C_22] SpawnSprite
+[2026.09.22-18.40.46:656][124]LogBlueprintUserMessages: [BP_GridTile_C_23] HOVER
+[2026.09.22-18.40.46:681][127]LogBlueprintUserMessages: [BP_GridTile_C_32] HOVER
+[2026.09.22-18.40.46:689][128]LogBlueprintUserMessages: [BP_GridTile_C_33] HOVER
+[2026.09.22-18.40.46:889][152]LogBlueprintUserMessages: [BP_GridTile_C_33] false
+[2026.09.22-18.40.46:889][152]LogBlueprintUserMessages: [BP_GridTile_C_33] Tile Clicked
+[2026.09.22-18.40.46:890][152]LogBlueprintUserMessages: [BP_GridTile_C_33] SpawnSprite
+[2026.09.22-18.40.47:073][174]LogBlueprintUserMessages: [BP_GridTile_C_33] HOVER
+[2026.09.22-18.40.47:139][182]LogBlueprintUserMessages: [BP_GridTile_C_32] HOVER
+[2026.09.22-18.40.47:589][236]LogBlueprintUserMessages: [BP_GridTile_C_41] HOVER
+[2026.09.22-18.40.47:672][246]LogBlueprintUserMessages: [BP_GridTile_C_40] HOVER
+[2026.09.22-18.40.47:731][253]LogBlueprintUserMessages: [BP_GridTile_C_40] false
+[2026.09.22-18.40.47:731][253]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Clicked
+[2026.09.22-18.40.47:731][253]LogBlueprintUserMessages: [BP_GridTile_C_40] SpawnSprite
+[2026.09.22-18.40.47:856][268]LogBlueprintUserMessages: [BP_GridTile_C_41] HOVER
+[2026.09.22-18.40.48:006][286]LogBlueprintUserMessages: [BP_GridTile_C_41] false
+[2026.09.22-18.40.48:006][286]LogBlueprintUserMessages: [BP_GridTile_C_41] Tile Clicked
+[2026.09.22-18.40.48:006][286]LogBlueprintUserMessages: [BP_GridTile_C_41] SpawnSprite
+[2026.09.22-18.40.48:131][301]LogBlueprintUserMessages: [BP_GridTile_C_32] HOVER
+[2026.09.22-18.40.48:289][320]LogBlueprintUserMessages: [BP_GridTile_C_32] false
+[2026.09.22-18.40.48:289][320]LogBlueprintUserMessages: [BP_GridTile_C_32] Tile Clicked
+[2026.09.22-18.40.48:290][320]LogBlueprintUserMessages: [BP_GridTile_C_32] SpawnSprite
+[2026.09.22-18.40.48:398][333]LogBlueprintUserMessages: [BP_GridTile_C_31] HOVER
+[2026.09.22-18.40.48:439][338]LogBlueprintUserMessages: [BP_GridTile_C_30] HOVER
+[2026.09.22-18.40.48:664][365]LogBlueprintUserMessages: [BP_GridTile_C_31] HOVER
+[2026.09.22-18.40.48:798][381]LogBlueprintUserMessages: [BP_GridTile_C_31] false
+[2026.09.22-18.40.48:798][381]LogBlueprintUserMessages: [BP_GridTile_C_31] Tile Clicked
+[2026.09.22-18.40.48:798][381]LogBlueprintUserMessages: [BP_GridTile_C_31] SpawnSprite
+[2026.09.22-18.40.48:923][396]LogBlueprintUserMessages: [BP_GridTile_C_30] HOVER
+[2026.09.22-18.40.49:114][419]LogBlueprintUserMessages: [BP_GridTile_C_30] false
+[2026.09.22-18.40.49:114][419]LogBlueprintUserMessages: [BP_GridTile_C_30] Tile Clicked
+[2026.09.22-18.40.49:115][419]LogBlueprintUserMessages: [BP_GridTile_C_30] SpawnSprite
+[2026.09.22-18.40.49:248][435]LogBlueprintUserMessages: [BP_GridTile_C_39] HOVER
+[2026.09.22-18.40.49:606][478]LogBlueprintUserMessages: [BP_GridTile_C_39] false
+[2026.09.22-18.40.49:606][478]LogBlueprintUserMessages: [BP_GridTile_C_39] Tile Clicked
+[2026.09.22-18.40.49:606][478]LogBlueprintUserMessages: [BP_GridTile_C_39] SpawnSprite
+[2026.09.22-18.40.49:748][495]LogBlueprintUserMessages: [BP_GridTile_C_39] HOVER
+[2026.09.22-18.40.49:773][498]LogBlueprintUserMessages: [BP_GridTile_C_38] HOVER
+[2026.09.22-18.40.49:923][516]LogBlueprintUserMessages: [BP_GridTile_C_38] false
+[2026.09.22-18.40.49:923][516]LogBlueprintUserMessages: [BP_GridTile_C_38] Tile Clicked
+[2026.09.22-18.40.49:923][516]LogBlueprintUserMessages: [BP_GridTile_C_38] SpawnSprite
+[2026.09.22-18.40.50:064][533]LogBlueprintUserMessages: [BP_GridTile_C_29] HOVER
+[2026.09.22-18.40.50:214][551]LogBlueprintUserMessages: [BP_GridTile_C_29] false
+[2026.09.22-18.40.50:214][551]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Clicked
+[2026.09.22-18.40.50:214][551]LogBlueprintUserMessages: [BP_GridTile_C_29] SpawnSprite
+[2026.09.22-18.40.50:348][567]LogBlueprintUserMessages: [BP_GridTile_C_28] HOVER
+[2026.09.22-18.40.50:481][583]LogBlueprintUserMessages: [BP_GridTile_C_28] false
+[2026.09.22-18.40.50:481][583]LogBlueprintUserMessages: [BP_GridTile_C_28] Tile Clicked
+[2026.09.22-18.40.50:481][583]LogBlueprintUserMessages: [BP_GridTile_C_28] SpawnSprite
+[2026.09.22-18.40.50:656][604]LogBlueprintUserMessages: [BP_GridTile_C_37] HOVER
+[2026.09.22-18.40.50:798][621]LogBlueprintUserMessages: [BP_GridTile_C_37] false
+[2026.09.22-18.40.50:798][621]LogBlueprintUserMessages: [BP_GridTile_C_37] Tile Clicked
+[2026.09.22-18.40.50:798][621]LogBlueprintUserMessages: [BP_GridTile_C_37] SpawnSprite
+[2026.09.22-18.40.50:898][633]LogBlueprintUserMessages: [BP_GridTile_C_37] HOVER
+[2026.09.22-18.40.50:923][636]LogBlueprintUserMessages: [BP_GridTile_C_36] HOVER
+[2026.09.22-18.40.51:164][665]LogBlueprintUserMessages: [BP_GridTile_C_27] HOVER
+[2026.09.22-18.40.51:414][695]LogBlueprintUserMessages: [BP_GridTile_C_27] false
+[2026.09.22-18.40.51:414][695]LogBlueprintUserMessages: [BP_GridTile_C_27] Tile Clicked
+[2026.09.22-18.40.51:415][695]LogBlueprintUserMessages: [BP_GridTile_C_27] SpawnSprite
+[2026.09.22-18.40.51:590][716]LogBlueprintUserMessages: [BP_GridTile_C_36] HOVER
+[2026.09.22-18.40.51:723][732]LogBlueprintUserMessages: [BP_GridTile_C_36] false
+[2026.09.22-18.40.51:723][732]LogBlueprintUserMessages: [BP_GridTile_C_36] Tile Clicked
+[2026.09.22-18.40.51:723][732]LogBlueprintUserMessages: [BP_GridTile_C_36] SpawnSprite
+[2026.09.22-18.40.51:831][745]LogBlueprintUserMessages: [BP_GridTile_C_27] HOVER
+[2026.09.22-18.40.51:873][750]LogBlueprintUserMessages: [BP_GridTile_C_27] HOVER
+[2026.09.22-18.40.52:173][786]LogBlueprintUserMessages: [BP_GridTile_C_18] HOVER
+[2026.09.22-18.40.52:190][788]LogBlueprintUserMessages: [BP_GridTile_C_19] HOVER
+[2026.09.22-18.40.52:347][807]LogBlueprintUserMessages: [BP_GridTile_C_19] false
+[2026.09.22-18.40.52:347][807]LogBlueprintUserMessages: [BP_GridTile_C_19] Tile Clicked
+[2026.09.22-18.40.52:348][807]LogBlueprintUserMessages: [BP_GridTile_C_19] SpawnSprite
+[2026.09.22-18.40.52:614][839]LogBlueprintUserMessages: [BP_GridTile_C_18] HOVER
+[2026.09.22-18.40.52:772][858]LogBlueprintUserMessages: [BP_GridTile_C_18] false
+[2026.09.22-18.40.52:772][858]LogBlueprintUserMessages: [BP_GridTile_C_18] Tile Clicked
+[2026.09.22-18.40.52:773][858]LogBlueprintUserMessages: [BP_GridTile_C_18] SpawnSprite
+[2026.09.22-18.40.52:897][873]LogBlueprintUserMessages: [BP_GridTile_C_19] HOVER
+[2026.09.22-18.40.52:981][883]LogBlueprintUserMessages: [BP_GridTile_C_20] HOVER
+[2026.09.22-18.40.53:139][902]LogBlueprintUserMessages: [BP_GridTile_C_20] false
+[2026.09.22-18.40.53:139][902]LogBlueprintUserMessages: [BP_GridTile_C_20] Tile Clicked
+[2026.09.22-18.40.53:140][902]LogBlueprintUserMessages: [BP_GridTile_C_20] SpawnSprite
+[2026.09.22-18.40.53:290][920]LogBlueprintUserMessages: [BP_GridTile_C_20] HOVER
+[2026.09.22-18.40.53:323][924]LogBlueprintUserMessages: [BP_GridTile_C_11] HOVER
+[2026.09.22-18.40.53:481][943]LogBlueprintUserMessages: [BP_GridTile_C_11] false
+[2026.09.22-18.40.53:481][943]LogBlueprintUserMessages: [BP_GridTile_C_11] Tile Clicked
+[2026.09.22-18.40.53:481][943]LogBlueprintUserMessages: [BP_GridTile_C_11] SpawnSprite
+[2026.09.22-18.40.53:773][975]LogBlueprintUserMessages: [BP_GridTile_C_10] HOVER
+[2026.09.22-18.40.53:831][982]LogBlueprintUserMessages: [BP_GridTile_C_10] false
+[2026.09.22-18.40.53:831][982]LogBlueprintUserMessages: [BP_GridTile_C_10] Tile Clicked
+[2026.09.22-18.40.53:831][982]LogBlueprintUserMessages: [BP_GridTile_C_10] SpawnSprite
+[2026.09.22-18.40.53:939][995]LogBlueprintUserMessages: [BP_GridTile_C_10] HOVER
+[2026.09.22-18.40.53:956][997]LogBlueprintUserMessages: [BP_GridTile_C_9] HOVER
+[2026.09.22-18.40.54:264][ 34]LogBlueprintUserMessages: [BP_GridTile_C_9] HOVER
+[2026.09.22-18.40.54:347][ 44]LogBlueprintUserMessages: [BP_GridTile_C_9] false
+[2026.09.22-18.40.54:347][ 44]LogBlueprintUserMessages: [BP_GridTile_C_9] Tile Clicked
+[2026.09.22-18.40.54:348][ 44]LogBlueprintUserMessages: [BP_GridTile_C_9] SpawnSprite
+[2026.09.22-18.40.54:597][ 74]LogBlueprintUserMessages: [BP_GridTile_C_0] HOVER
+[2026.09.22-18.40.54:706][ 87]LogBlueprintUserMessages: [BP_GridTile_C_0] false
+[2026.09.22-18.40.54:706][ 87]LogBlueprintUserMessages: [BP_GridTile_C_0] Tile Clicked
+[2026.09.22-18.40.54:706][ 87]LogBlueprintUserMessages: [BP_GridTile_C_0] SpawnSprite
+[2026.09.22-18.40.54:939][115]LogBlueprintUserMessages: [BP_GridTile_C_1] HOVER
+[2026.09.22-18.40.55:039][127]LogBlueprintUserMessages: [BP_GridTile_C_1] false
+[2026.09.22-18.40.55:039][127]LogBlueprintUserMessages: [BP_GridTile_C_1] Tile Clicked
+[2026.09.22-18.40.55:040][127]LogBlueprintUserMessages: [BP_GridTile_C_1] SpawnSprite
+[2026.09.22-18.40.55:173][143]LogBlueprintUserMessages: [BP_GridTile_C_2] HOVER
+[2026.09.22-18.40.55:214][148]LogBlueprintUserMessages: [BP_GridTile_C_3] HOVER
+[2026.09.22-18.40.55:497][182]LogBlueprintUserMessages: [BP_GridTile_C_2] HOVER
+[2026.09.22-18.40.55:797][218]LogBlueprintUserMessages: [BP_GridTile_C_2] HOVER
+[2026.09.22-18.40.55:939][235]LogBlueprintUserMessages: [BP_GridTile_C_2] false
+[2026.09.22-18.40.55:939][235]LogBlueprintUserMessages: [BP_GridTile_C_2] Tile Clicked
+[2026.09.22-18.40.55:940][235]LogBlueprintUserMessages: [BP_GridTile_C_2] SpawnSprite
+[2026.09.22-18.40.56:139][259]LogBlueprintUserMessages: [BP_GridTile_C_3] HOVER
+[2026.09.22-18.40.56:306][279]LogBlueprintUserMessages: [BP_GridTile_C_3] false
+[2026.09.22-18.40.56:306][279]LogBlueprintUserMessages: [BP_GridTile_C_3] Tile Clicked
+[2026.09.22-18.40.56:306][279]LogBlueprintUserMessages: [BP_GridTile_C_3] SpawnSprite
+[2026.09.22-18.40.56:464][298]LogBlueprintUserMessages: [BP_GridTile_C_12] HOVER
+[2026.09.22-18.40.56:647][320]LogBlueprintUserMessages: [BP_GridTile_C_12] false
+[2026.09.22-18.40.56:647][320]LogBlueprintUserMessages: [BP_GridTile_C_12] Tile Clicked
+[2026.09.22-18.40.56:648][320]LogBlueprintUserMessages: [BP_GridTile_C_12] SpawnSprite
+[2026.09.22-18.40.56:814][340]LogBlueprintUserMessages: [BP_GridTile_C_13] HOVER
+[2026.09.22-18.40.56:964][358]LogBlueprintUserMessages: [BP_GridTile_C_13] false
+[2026.09.22-18.40.56:964][358]LogBlueprintUserMessages: [BP_GridTile_C_13] Tile Clicked
+[2026.09.22-18.40.56:965][358]LogBlueprintUserMessages: [BP_GridTile_C_13] SpawnSprite
+[2026.09.22-18.40.57:097][374]LogBlueprintUserMessages: [BP_GridTile_C_4] HOVER
+[2026.09.22-18.40.57:272][395]LogBlueprintUserMessages: [BP_GridTile_C_4] false
+[2026.09.22-18.40.57:273][395]LogBlueprintUserMessages: [BP_GridTile_C_4] Tile Clicked
+[2026.09.22-18.40.57:273][395]LogBlueprintUserMessages: [BP_GridTile_C_4] SpawnSprite
+[2026.09.22-18.40.57:389][409]LogBlueprintUserMessages: [BP_GridTile_C_5] HOVER
+[2026.09.22-18.40.57:606][435]LogBlueprintUserMessages: [BP_GridTile_C_5] HOVER
+[2026.09.22-18.40.57:756][453]LogBlueprintUserMessages: [BP_GridTile_C_5] false
+[2026.09.22-18.40.57:756][453]LogBlueprintUserMessages: [BP_GridTile_C_5] Tile Clicked
+[2026.09.22-18.40.57:756][453]LogBlueprintUserMessages: [BP_GridTile_C_5] SpawnSprite
+[2026.09.22-18.40.57:873][467]LogBlueprintUserMessages: [BP_GridTile_C_14] HOVER
+[2026.09.22-18.40.58:006][483]LogBlueprintUserMessages: [BP_GridTile_C_14] false
+[2026.09.22-18.40.58:006][483]LogBlueprintUserMessages: [BP_GridTile_C_14] Tile Clicked
+[2026.09.22-18.40.58:007][483]LogBlueprintUserMessages: [BP_GridTile_C_14] SpawnSprite
+[2026.09.22-18.40.58:123][497]LogBlueprintUserMessages: [BP_GridTile_C_14] HOVER
+[2026.09.22-18.40.58:190][505]LogBlueprintUserMessages: [BP_GridTile_C_23] HOVER
+[2026.09.22-18.40.58:297][518]LogBlueprintUserMessages: [BP_GridTile_C_23] false
+[2026.09.22-18.40.58:298][518]LogBlueprintUserMessages: [BP_GridTile_C_23] Tile Clicked
+[2026.09.22-18.40.58:298][518]LogBlueprintUserMessages: [BP_GridTile_C_23] SpawnSprite
+[2026.09.22-18.40.58:398][530]LogBlueprintUserMessages: [BP_GridTile_C_23] HOVER
+[2026.09.22-18.40.58:431][534]LogBlueprintUserMessages: [BP_GridTile_C_24] HOVER
+[2026.09.22-18.40.58:598][554]LogBlueprintUserMessages: [BP_GridTile_C_24] false
+[2026.09.22-18.40.58:598][554]LogBlueprintUserMessages: [BP_GridTile_C_24] Tile Clicked
+[2026.09.22-18.40.58:598][554]LogBlueprintUserMessages: [BP_GridTile_C_24] SpawnSprite
+[2026.09.22-18.40.58:714][568]LogBlueprintUserMessages: [BP_GridTile_C_24] HOVER
+[2026.09.22-18.40.58:739][571]LogBlueprintUserMessages: [BP_GridTile_C_15] HOVER
+[2026.09.22-18.40.58:914][592]LogBlueprintUserMessages: [BP_GridTile_C_15] false
+[2026.09.22-18.40.58:914][592]LogBlueprintUserMessages: [BP_GridTile_C_15] Tile Clicked
+[2026.09.22-18.40.58:915][592]LogBlueprintUserMessages: [BP_GridTile_C_15] SpawnSprite
+[2026.09.22-18.40.59:173][623]LogBlueprintUserMessages: [BP_GridTile_C_15] HOVER
+[2026.09.22-18.40.59:273][635]LogBlueprintUserMessages: [BP_GridTile_C_6] HOVER
+[2026.09.22-18.40.59:439][655]LogBlueprintUserMessages: [BP_GridTile_C_6] false
+[2026.09.22-18.40.59:439][655]LogBlueprintUserMessages: [BP_GridTile_C_6] Tile Clicked
+[2026.09.22-18.40.59:440][655]LogBlueprintUserMessages: [BP_GridTile_C_6] SpawnSprite
+[2026.09.22-18.40.59:564][670]LogBlueprintUserMessages: [BP_GridTile_C_7] HOVER
+[2026.09.22-18.40.59:764][694]LogBlueprintUserMessages: [BP_GridTile_C_7] false
+[2026.09.22-18.40.59:764][694]LogBlueprintUserMessages: [BP_GridTile_C_7] Tile Clicked
+[2026.09.22-18.40.59:765][694]LogBlueprintUserMessages: [BP_GridTile_C_7] SpawnSprite
+[2026.09.22-18.40.59:989][721]LogBlueprintUserMessages: [BP_GridTile_C_16] HOVER
+[2026.09.22-18.41.00:090][733]LogBlueprintUserMessages: [BP_GridTile_C_16] false
+[2026.09.22-18.41.00:090][733]LogBlueprintUserMessages: [BP_GridTile_C_16] Tile Clicked
+[2026.09.22-18.41.00:090][733]LogBlueprintUserMessages: [BP_GridTile_C_16] SpawnSprite
+[2026.09.22-18.41.00:223][749]LogBlueprintUserMessages: [BP_GridTile_C_16] HOVER
+[2026.09.22-18.41.00:364][766]LogBlueprintUserMessages: [BP_GridTile_C_25] HOVER
+[2026.09.22-18.41.00:490][781]LogBlueprintUserMessages: [BP_GridTile_C_25] false
+[2026.09.22-18.41.00:490][781]LogBlueprintUserMessages: [BP_GridTile_C_25] Tile Clicked
+[2026.09.22-18.41.00:490][781]LogBlueprintUserMessages: [BP_GridTile_C_25] SpawnSprite
+[2026.09.22-18.41.00:631][798]LogBlueprintUserMessages: [BP_GridTile_C_25] HOVER
+[2026.09.22-18.41.00:681][804]LogBlueprintUserMessages: [BP_GridTile_C_34] HOVER
+[2026.09.22-18.41.00:831][822]LogBlueprintUserMessages: [BP_GridTile_C_34] false
+[2026.09.22-18.41.00:831][822]LogBlueprintUserMessages: [BP_GridTile_C_34] Tile Clicked
+[2026.09.22-18.41.00:832][822]LogBlueprintUserMessages: [BP_GridTile_C_34] SpawnSprite
+[2026.09.22-18.41.00:973][839]LogBlueprintUserMessages: [BP_GridTile_C_34] HOVER
+[2026.09.22-18.41.01:015][844]LogBlueprintUserMessages: [BP_GridTile_C_43] HOVER
+[2026.09.22-18.41.01:131][858]LogBlueprintUserMessages: [BP_GridTile_C_43] false
+[2026.09.22-18.41.01:131][858]LogBlueprintUserMessages: [BP_GridTile_C_43] Tile Clicked
+[2026.09.22-18.41.01:131][858]LogBlueprintUserMessages: [BP_GridTile_C_43] SpawnSprite
+[2026.09.22-18.41.01:273][875]LogBlueprintUserMessages: [BP_GridTile_C_42] HOVER
+[2026.09.22-18.41.01:439][895]LogBlueprintUserMessages: [BP_GridTile_C_42] false
+[2026.09.22-18.41.01:439][895]LogBlueprintUserMessages: [BP_GridTile_C_42] Tile Clicked
+[2026.09.22-18.41.01:440][895]LogBlueprintUserMessages: [BP_GridTile_C_42] SpawnSprite
+[2026.09.22-18.41.01:581][912]LogBlueprintUserMessages: [BP_GridTile_C_43] HOVER
+[2026.09.22-18.41.01:589][913]LogBlueprintUserMessages: [BP_GridTile_C_44] HOVER
+[2026.09.22-18.41.02:123][977]LogBlueprintUserMessages: [BP_GridTile_C_44] HOVER
+[2026.09.22-18.41.02:314][  0]LogBlueprintUserMessages: [BP_GridTile_C_44] false
+[2026.09.22-18.41.02:314][  0]LogBlueprintUserMessages: [BP_GridTile_C_44] Tile Clicked
+[2026.09.22-18.41.02:315][  0]LogBlueprintUserMessages: [BP_GridTile_C_44] SpawnSprite
+[2026.09.22-18.41.02:440][ 15]LogBlueprintUserMessages: [BP_GridTile_C_35] HOVER
+[2026.09.22-18.41.02:597][ 34]LogBlueprintUserMessages: [BP_GridTile_C_35] false
+[2026.09.22-18.41.02:597][ 34]LogBlueprintUserMessages: [BP_GridTile_C_35] Tile Clicked
+[2026.09.22-18.41.02:598][ 34]LogBlueprintUserMessages: [BP_GridTile_C_35] SpawnSprite
+[2026.09.22-18.41.02:739][ 51]LogBlueprintUserMessages: [BP_GridTile_C_26] HOVER
+[2026.09.22-18.41.02:915][ 72]LogBlueprintUserMessages: [BP_GridTile_C_26] false
+[2026.09.22-18.41.02:915][ 72]LogBlueprintUserMessages: [BP_GridTile_C_26] Tile Clicked
+[2026.09.22-18.41.02:915][ 72]LogBlueprintUserMessages: [BP_GridTile_C_26] SpawnSprite
+[2026.09.22-18.41.03:048][ 88]LogBlueprintUserMessages: [BP_GridTile_C_17] HOVER
+[2026.09.22-18.41.03:106][ 95]LogBlueprintUserMessages: [BP_GridTile_C_8] HOVER
+[2026.09.22-18.41.03:232][110]LogBlueprintUserMessages: [BP_GridTile_C_8] false
+[2026.09.22-18.41.03:232][110]LogBlueprintUserMessages: [BP_GridTile_C_8] Tile Clicked
+[2026.09.22-18.41.03:232][110]LogBlueprintUserMessages: [BP_GridTile_C_8] SpawnSprite
+[2026.09.22-18.41.03:506][143]LogBlueprintUserMessages: [BP_GridTile_C_17] HOVER
+[2026.09.22-18.41.03:756][173]LogBlueprintUserMessages: [BP_GridTile_C_17] false
+[2026.09.22-18.41.03:756][173]LogBlueprintUserMessages: [BP_GridTile_C_17] Tile Clicked
+[2026.09.22-18.41.03:757][173]LogBlueprintUserMessages: [BP_GridTile_C_17] SpawnSprite
+[2026.09.22-18.42.58:165][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2813.832031
+[2026.09.22-18.42.58:314][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-18.42.58:315][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2813.973633, Update Interval: 315.692627
+[2026.09.22-18.48.47:693][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3163.383301
+[2026.09.22-18.48.47:851][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-18.48.47:851][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3163.533691, Update Interval: 325.256500
+[2026.09.22-18.55.04:761][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3540.456787
+[2026.09.22-18.55.04:903][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-18.55.04:903][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3540.591064, Update Interval: 316.166870
+[2026.09.22-18.58.01:729][282]LogDerivedDataCache: C:/Users/Neutron Lab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.22-19.01.04:998][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3900.699707
+[2026.09.22-19.01.05:149][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-19.01.05:149][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3900.842041, Update Interval: 314.566498
+[2026.09.22-19.05.26:959][683]LogBlueprintUserMessages: [BP_GridTile_C_8] HOVER
+[2026.09.22-19.05.27:843][789]LogBlueprintUserMessages: [BP_GridTile_C_3] HOVER
+[2026.09.22-19.05.27:859][791]LogBlueprintUserMessages: [BP_GridTile_C_2] HOVER
+[2026.09.22-19.05.27:867][792]LogBlueprintUserMessages: [BP_GridTile_C_1] HOVER
+[2026.09.22-19.05.27:884][794]LogBlueprintUserMessages: [BP_GridTile_C_9] HOVER
+[2026.09.22-19.05.28:534][872]LogBlueprintUserMessages: [BP_GridTile_C_18] HOVER
+[2026.09.22-19.05.28:543][873]LogBlueprintUserMessages: [BP_GridTile_C_19] HOVER
+[2026.09.22-19.05.28:551][874]LogBlueprintUserMessages: [BP_GridTile_C_29] HOVER
+[2026.09.22-19.05.28:576][877]LogBlueprintUserMessages: [BP_GridTile_C_31] HOVER
+[2026.09.22-19.05.28:593][879]LogBlueprintUserMessages: [BP_GridTile_C_32] HOVER
+[2026.09.22-19.05.28:609][881]LogBlueprintUserMessages: [BP_GridTile_C_41] HOVER
+[2026.09.22-19.05.28:618][882]LogBlueprintUserMessages: [BP_GridTile_C_42] HOVER
+[2026.09.22-19.05.28:634][884]LogBlueprintUserMessages: [BP_GridTile_C_43] HOVER
+[2026.09.22-19.05.28:643][885]LogBlueprintUserMessages: [BP_GridTile_C_44] HOVER
+[2026.09.22-19.06.03:718][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-19.06.03:718][331]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.22-19.06.03:718][331]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-19.06.03:719][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-19.06.03:721][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.22-19.06.03:726][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-19.06.03:750][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-19.06.03:750][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.09.22-19.06.03:750][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.09.22-19.06.03:752][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.09.22-19.06.03:759][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.09.22-19.06.03:860][332]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.09.22-19.06.16:536][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.22-19.06.17:336][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-19.06.17:397][872]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.22-19.06.17:454][872]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_GridTile.BP_GridTile]
+[2026.09.22-19.06.17:454][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.22-19.06.17:454][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.22-19.06.17:465][872]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.22-19.06.17:465][872]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile8B5285D44800FB1F643D91AB10E960A2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.22-19.06.17:472][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.900 ms (total: 1.69 sec)
+[2026.09.22-19.06.17:529][872]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.22-19.06.17:529][872]LogContentValidation: Enabled validators:
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-19.06.17:529][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-19.06.17:529][872]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.22-19.07.03:901][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4259.621094
+[2026.09.22-19.07.04:902][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-19.07.04:902][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4260.287598, Update Interval: 333.236481
+[2026.09.22-19.13.26:254][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4641.972656
+[2026.09.22-19.13.27:254][894]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-19.13.27:254][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4642.639648, Update Interval: 359.384735
+[2026.09.22-19.20.23:273][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5059.000000
+[2026.09.22-19.20.24:274][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-19.20.24:274][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5059.666504, Update Interval: 342.853485
