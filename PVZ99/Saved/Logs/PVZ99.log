@@ -8208,3 +8208,154 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.22-21.45.52:998][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13789.799805
 [2026.09.22-21.45.53:998][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.22-21.45.53:998][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13790.467773, Update Interval: 304.288452
+[2026.09.22-21.48.11:105][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.22-21.48.11:120][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Lawn_Test_Auto3
+[2026.09.22-21.48.11:121][326]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Lawn_Test_Auto397307BB24BE1EEB641309699FF9C0AB2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Maps/Lawn_Test_Auto3.umap'
+[2026.09.22-21.48.11:122][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lawn_Test' took 0.042
+[2026.09.22-21.48.11:122][326]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.09.22-21.51.30:374][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14127.123047
+[2026.09.22-21.51.31:375][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-21.51.31:375][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14127.790039, Update Interval: 354.883881
+[2026.09.22-21.52.15:740][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.09.22-21.52.21:455][ 60]LogSlate: Window 'Save Content' being destroyed
+[2026.09.22-21.52.21:465][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-21.52.21:523][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lawn_Test" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Maps/Lawn_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.09.22-21.52.21:561][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.22-21.52.21:574][ 60]LogSavePackage: Moving output files for package: /Game/Maps/Lawn_Test
+[2026.09.22-21.52.21:575][ 60]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Lawn_Test606384914DD29A941DBE928291A80908.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Maps/Lawn_Test.umap'
+[2026.09.22-21.52.21:581][ 60]LogFileHelpers: Saving map 'Lawn_Test' took 0.058
+[2026.09.22-21.52.21:581][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x] ([1] browsable assets)...
+[2026.09.22-21.52.21:581][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x]
+[2026.09.22-21.52.21:587][ 60]LogSavePackage: Moving output files for package: /Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x
+[2026.09.22-21.52.21:587][ 60]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/zombies_sprites_sheets_by_drafex53B9631341EBC0FAF44AA5876730E087.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x.uasset'
+[2026.09.22-21.52.21:590][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x_Sprite] ([1] browsable assets)...
+[2026.09.22-21.52.21:590][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x_Sprite]
+[2026.09.22-21.52.21:595][ 60]LogSavePackage: Moving output files for package: /Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x_Sprite
+[2026.09.22-21.52.21:595][ 60]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/zombies_sprites_sheets_by_drafexFF557AEE4871F73A5B88028850243ECB.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x_Sprite.uasset'
+[2026.09.22-21.52.21:604][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.906 ms (total: 5.64 sec)
+[2026.09.22-21.52.21:630][ 60]LogStall: Shutdown...
+[2026.09.22-21.52.21:630][ 60]LogStall: Shutdown complete.
+[2026.09.22-21.52.21:689][ 60]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.21:689][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.21:861][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.21:861][ 60]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.21:861][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:023][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:023][ 60]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:023][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:179][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:179][ 60]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:179][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:303][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:303][ 60]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:303][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:436][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:436][ 60]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:436][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:573][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:573][ 60]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:573][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:711][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:711][ 60]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:711][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:874][ 60]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:874][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:880][ 60]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:880][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.22:936][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.22:937][ 60]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.22:937][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:006][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.22-21.52.23:006][ 60]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.23:006][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:065][ 60]LogSlate: Window 'PVZ99 - Unreal Editor' being destroyed
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: Display: Starting to validate 3 assets
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: Enabled validators:
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-21.52.23:479][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-21.52.23:479][ 60]AssetCheck: /Game/Maps/Lawn_Test Validating asset
+[2026.09.22-21.52.23:479][ 60]AssetCheck: /Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x Validating asset
+[2026.09.22-21.52.23:479][ 60]AssetCheck: /Game/TemporaryAssets/zombies_sprites_sheets_by_drafex14_dfkt0he-414w-2x_Sprite Validating asset
+[2026.09.22-21.52.23:569][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.22-21.52.23:622][ 60]Cmd: QUIT_EDITOR
+[2026.09.22-21.52.23:622][ 60]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.22-21.52.23:623][ 60]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.22-21.52.23:629][ 61]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.22-21.52.23:630][ 61]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.22-21.52.23:630][ 61]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.22-21.52.23:630][ 61]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.23:630][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:635][ 61]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.22-21.52.23:636][ 61]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.09.22-21.52.23:636][ 61]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.22-21.52.23:654][ 61]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.23:654][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:658][ 61]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.23:658][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:661][ 61]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-21.52.23:661][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-21.52.23:664][ 61]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.22-21.52.23:664][ 61]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.09.22-21.52.23:671][ 61]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.22-21.52.24:597][ 61]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.09.22-21.52.24:597][ 61]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.22-21.52.24:597][ 61]LogAudio: Display: Audio Device unregistered from world 'Lawn_Test'.
+[2026.09.22-21.52.24:597][ 61]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.22-21.52.24:598][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.09.22-21.52.24:600][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.09.22-21.52.24:607][ 61]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.22-21.52.24:607][ 61]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.22-21.52.24:608][ 61]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.09.22-21.52.24:610][ 61]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.22-21.52.24:612][ 61]LogExit: Preparing to exit.
+[2026.09.22-21.52.24:649][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.22-21.52.24:656][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:656][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.24:657][ 61]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.09.22-21.52.25:226][ 61]LogEditorDataStorage: Deinitializing
+[2026.09.22-21.52.25:373][ 61]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.22-21.52.25:409][ 61]LogExit: Editor shut down
+[2026.09.22-21.52.25:414][ 61]LogExit: Transaction tracking system shut down
+[2026.09.22-21.52.25:636][ 61]LogExit: Object subsystem successfully closed.
+[2026.09.22-21.52.25:688][ 61]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.09.22-21.52.25:781][ 61]LogMemoryProfiler: Shutdown
+[2026.09.22-21.52.25:781][ 61]LogNetworkingProfiler: Shutdown
+[2026.09.22-21.52.25:782][ 61]LoadingProfiler: Shutdown
+[2026.09.22-21.52.25:782][ 61]LogTimingProfiler: Shutdown
+[2026.09.22-21.52.25:782][ 61]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.22-21.52.25:782][ 61]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.22-21.52.26:188][ 61]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.22-21.52.26:192][ 61]RenderDocPlugin: plugin has been unloaded.
+[2026.09.22-21.52.26:215][ 61]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.22-21.52.26:216][ 61]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D9FAD26-4A10-3F10-5996-109C4C4989CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e4df0a8c4dc56b7a1b79389064890498%7Cec8b754caed940bab08b4a66151c710c%7C1e933278-425b-47c0-9651-c2174d05b1df&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.22-21.52.26:788][ 61]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.22-21.52.26:788][ 61]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.22-21.52.26:789][ 61]LogXGEController: Cleaning working directory: C:/Users/Neutron Lab/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.09.22-21.52.26:791][ 61]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.09.22-21.52.26:791][ 61]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.09.22-21.52.26:791][ 61]LogPakFile: Destroying PakPlatformFile
+[2026.09.22-21.52.27:091][ 61]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.22-21.52.27:136][ 61]LogExit: Exiting.
+[2026.09.22-21.52.27:160][ 61]Log file closed, 09/22/26 22:52:27
