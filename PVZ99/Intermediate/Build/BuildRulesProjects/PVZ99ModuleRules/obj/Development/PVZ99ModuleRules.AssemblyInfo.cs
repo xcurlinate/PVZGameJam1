@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PVZ99ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cb6fd55a18278237bf1174d3c67816928994bbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd75f461e3a64ebe83e27b08126498028bda729f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PVZ99ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PVZ99ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
