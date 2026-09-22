@@ -156,7 +156,12 @@
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/__ExternalActors__/Untitled/6/DP/7S9IDP9PDRRGQTSK0FUZ3E.uasset",
-				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Untitled.umap"
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Untitled.umap",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlantBase.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Attack.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Attack_Sprite.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GameMode.uasset"
 			]
 		}
 	]
