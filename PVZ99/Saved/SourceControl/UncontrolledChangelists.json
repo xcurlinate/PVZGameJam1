@@ -161,7 +161,16 @@
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Attack.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Attack_Sprite.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset",
-				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GameMode.uasset"
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Shooter.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Wall.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Stun.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Stun_Sprite.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Run.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/TemporaryAssets/Mushroom-Run_Sprite.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_PlantBar.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_ZombieBase.uasset"
 			]
 		}
 	]
