@@ -538,7 +538,13 @@
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Idle/Pshooter_Idle_spritesheet_Sprite_65.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Flipbooks/PShooterIdleFlipBook.uasset",
 				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZWalkFlipBook.uasset",
-				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Flipbooks/ZWalkFlipBook.uasset"
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Flipbooks/ZWalkFlipBook.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Shooting_spritesheet.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Pea.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1_Walking_spritesheet.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Pshooter_Idle_spritesheet.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Pea_Sprite_0.uasset",
+				"C:/Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PeaProjectile.uasset"
 			]
 		}
 	]
