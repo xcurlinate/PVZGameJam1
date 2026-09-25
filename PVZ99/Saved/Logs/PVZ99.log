@@ -5450,3 +5450,695 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.25-19.08.55:722][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7462.308594
 [2026.09.25-19.08.56:721][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.25-19.08.56:721][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7462.976562, Update Interval: 321.502747
+[2026.09.25-19.10.24:283][237]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.10.24:283][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.10.24:290][237]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.10.24:290][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.10.24:343][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.09.25-19.10.24:686][274]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-19.10.24:686][274]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.10.24:686][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.10.24:749][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-19.10.25:119][313]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-19.10.25:119][313]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.10.25:119][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.10.25:177][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.25-19.10.29:892][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlantBase.BP_PlantBase
+[2026.09.25-19.10.29:892][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.09.25-19.10.41:522][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.09.25-19.10.41:856][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.10.41:912][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlantBase] ([2] browsable assets)...
+[2026.09.25-19.10.41:912][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlantBase]
+[2026.09.25-19.10.41:912][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlantBase" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlantBase.uasset" SILENT=true
+[2026.09.25-19.10.41:921][107]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlantBase
+[2026.09.25-19.10.41:921][107]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlantBaseB611BD9C489FEB70C566F49662B037E4.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlantBase.uasset'
+[2026.09.25-19.10.41:927][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.905 ms (total: 3.72 sec)
+[2026.09.25-19.10.41:978][107]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.10.41:978][107]LogContentValidation: Enabled validators:
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.10.41:978][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.10.41:978][107]AssetCheck: /Game/Blueprints/BP_PlantBase Validating asset
+[2026.09.25-19.10.51:253][210]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.10.51:253][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.10.51:304][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-19.10.55:510][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer
+[2026.09.25-19.10.55:510][630]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.09.25-19.11.08:744][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlantBase.BP_PlantBase
+[2026.09.25-19.11.08:744][ 62]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.09.25-19.11.11:809][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.09.25-19.11.12:479][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.11.12:532][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlantBase] ([2] browsable assets)...
+[2026.09.25-19.11.12:532][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlantBase]
+[2026.09.25-19.11.12:532][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlantBase" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlantBase.uasset" SILENT=true
+[2026.09.25-19.11.12:540][428]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlantBase
+[2026.09.25-19.11.12:541][428]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlantBaseDD3E3B5C40AA26B12AED7ABE35F1D160.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlantBase.uasset'
+[2026.09.25-19.11.12:546][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.579 ms (total: 3.79 sec)
+[2026.09.25-19.11.12:596][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.11.12:596][428]LogContentValidation: Enabled validators:
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.11.12:596][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.11.12:596][428]AssetCheck: /Game/Blueprints/BP_PlantBase Validating asset
+[2026.09.25-19.11.13:746][561]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.11.13:746][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.11.13:796][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.09.25-19.12.01:180][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-19.12.01:681][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.12.01:735][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-19.12.01:735][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-19.12.01:735][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Producer" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset" SILENT=true
+[2026.09.25-19.12.01:745][580]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Producer
+[2026.09.25-19.12.01:745][580]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer841433C94BA1836337857CABF383AB38.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset'
+[2026.09.25-19.12.01:751][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.151 ms (total: 3.86 sec)
+[2026.09.25-19.12.01:800][580]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.12.01:800][580]LogContentValidation: Enabled validators:
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.12.01:800][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.12.01:800][580]AssetCheck: /Game/Blueprints/BP_Plant_Producer Validating asset
+[2026.09.25-19.12.06:598][140]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-19.12.06:598][140]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.12.06:598][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.12.06:652][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.25-19.12.11:546][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Shooter.BP_Plant_Shooter
+[2026.09.25-19.12.11:547][569]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.09.25-19.12.18:573][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.25-19.12.19:090][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.12.19:134][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Shooter] ([2] browsable assets)...
+[2026.09.25-19.12.19:134][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Shooter]
+[2026.09.25-19.12.19:134][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Shooter" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Shooter.uasset" SILENT=true
+[2026.09.25-19.12.19:147][396]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Shooter
+[2026.09.25-19.12.19:147][396]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_ShooterE55259A64AE9AB17B69BBCA93B5DAD5D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Shooter.uasset'
+[2026.09.25-19.12.19:153][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.460 ms (total: 3.92 sec)
+[2026.09.25-19.12.19:217][396]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.12.19:217][396]LogContentValidation: Enabled validators:
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.12.19:217][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.12.19:217][396]AssetCheck: /Game/Blueprints/BP_Plant_Shooter Validating asset
+[2026.09.25-19.12.20:173][507]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.12.20:173][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.12.20:229][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-19.12.23:713][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Wall.BP_Plant_Wall
+[2026.09.25-19.12.23:714][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.09.25-19.12.26:384][140]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.12.26:384][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.12.26:401][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Wall.BP_Plant_Wall
+[2026.09.25-19.12.26:401][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.09.25-19.12.26:717][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.09.25-19.12.33:973][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.09.25-19.12.34:835][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.12.34:869][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Wall] ([2] browsable assets)...
+[2026.09.25-19.12.34:869][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Wall]
+[2026.09.25-19.12.34:869][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Wall" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Wall.uasset" SILENT=true
+[2026.09.25-19.12.34:878][ 66]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Wall
+[2026.09.25-19.12.34:878][ 66]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_WallC01193AA42514B9E9604988A0E624E40.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Wall.uasset'
+[2026.09.25-19.12.34:883][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.776 ms (total: 3.97 sec)
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: Enabled validators:
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.12.34:935][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.12.34:935][ 66]AssetCheck: /Game/Blueprints/BP_Plant_Wall Validating asset
+[2026.09.25-19.12.57:099][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GridTile.BP_GridTile
+[2026.09.25-19.12.57:099][508]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.09.25-19.14.17:066][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.09.25-19.14.17:069][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lawn_Test' took 0.046
+[2026.09.25-19.14.17:070][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-19.14.17:070][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-19.14.17:082][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GridTile_Auto7
+[2026.09.25-19.14.17:082][390]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile_Auto7095FC9294CAE280D2AC75F879B490E38.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Blueprints/BP_GridTile_Auto7.uasset'
+[2026.09.25-19.14.17:083][390]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.09.25-19.14.56:023][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7822.597168
+[2026.09.25-19.14.56:503][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.14.56:503][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7823.068848, Update Interval: 348.647125
+[2026.09.25-19.15.48:515][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.09.25-19.15.49:166][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.15.49:209][185]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-19.15.49:209][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-19.15.49:209][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-19.15.49:224][185]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-19.15.49:224][185]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTileAD55E7B74CEC58EDE2E7B28FF295E732.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-19.15.49:231][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.940 ms (total: 4.04 sec)
+[2026.09.25-19.15.49:294][185]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.15.49:294][185]LogContentValidation: Enabled validators:
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.15.49:294][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.15.49:294][185]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-19.15.51:351][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-19.15.51:357][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-19.15.51:357][428]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.15.51:359][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002063s)
+[2026.09.25-19.15.51:359][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002090s)
+[2026.09.25-19.15.51:383][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.09.25-19.15.51:388][428]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-19.15.51:389][428]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2026.09.25-19.15.51:390][428]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-19.15.51:390][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-19.15.51:390][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-19.15.51:390][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-19.15.51:390][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-19.15.51:390][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-19.15.51:393][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-19.15.51:409][428]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-19.15.51:409][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-19.15.51:409][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-19.15.51:409][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-19.15.51:409][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.09.25-19.15.51:409][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.09.25-19.15.51:411][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.09.25-19.15.51:411][428]LogInit: FAudioDevice initialized with ID 29.
+[2026.09.25-19.15.51:411][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.09.25-19.15.51:411][428]LogAudio: Display: Audio Device (ID: 29) registered with world 'Lawn_Test'.
+[2026.09.25-19.15.51:411][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.09.25-19.15.51:460][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.15.51:460][428]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-19.15.51:461][428]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-20.15.51
+[2026.09.25-19.15.51:461][428]LogWorld: Bringing up level for play took: 0.000685
+[2026.09.25-19.15.51:464][428]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.09.25-19.15.51:464][428]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.09.25-19.15.51:474][428]PIE: Server logged in
+[2026.09.25-19.15.51:475][428]PIE: Play in editor total start time 0.118 seconds.
+[2026.09.25-19.15.51:554][429]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-19.15.55:524][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.15.55:524][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.15.55:524][887]LogSlate: Window 'PVZ99 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.09.25-19.15.55:529][887]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.15.55:529][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.15.55:530][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-19.15.55:536][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.15.55:560][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.25-19.15.55:560][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.09.25-19.15.55:560][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.09.25-19.15.55:562][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.09.25-19.15.55:568][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.09.25-19.15.55:595][889]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.09.25-19.21.20:985][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8207.573242
+[2026.09.25-19.21.21:985][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.21.21:985][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8208.239258, Update Interval: 343.628052
+[2026.09.25-19.21.58:702][550]LogUVisualStudioToolsBlueprintBreakpointExtension: Node is not a UK2Node_CallFunction
+[2026.09.25-19.22.09:648][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.25-19.22.10:300][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.22.10:361][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-19.22.10:361][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-19.22.10:361][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-19.22.10:374][840]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-19.22.10:375][840]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile74696E254769DACB55BF3386ACC7553A.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-19.22.10:381][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.891 ms (total: 4.12 sec)
+[2026.09.25-19.22.10:426][840]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.22.10:426][840]LogContentValidation: Enabled validators:
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.22.10:426][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.22.10:427][840]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-19.22.16:342][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.22.16:400][534]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-19.22.16:400][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-19.22.16:400][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-19.22.16:416][534]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-19.22.16:417][534]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTileF2BE75824AC81A84049D6399F46EABD5.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-19.22.16:424][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.817 ms (total: 4.20 sec)
+[2026.09.25-19.22.16:477][534]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.22.16:477][534]LogContentValidation: Enabled validators:
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.22.16:477][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.22.16:477][534]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-19.22.17:262][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-19.22.17:266][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-19.22.17:267][625]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.22.17:269][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002187s)
+[2026.09.25-19.22.17:269][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002218s)
+[2026.09.25-19.22.17:294][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.25-19.22.17:300][625]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-19.22.17:301][625]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2026.09.25-19.22.17:302][625]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-19.22.17:302][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-19.22.17:302][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-19.22.17:302][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-19.22.17:302][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-19.22.17:302][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-19.22.17:305][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-19.22.17:319][625]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-19.22.17:319][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-19.22.17:319][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-19.22.17:319][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-19.22.17:319][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.09.25-19.22.17:319][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.09.25-19.22.17:321][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.09.25-19.22.17:321][625]LogInit: FAudioDevice initialized with ID 30.
+[2026.09.25-19.22.17:321][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.09.25-19.22.17:321][625]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lawn_Test'.
+[2026.09.25-19.22.17:321][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.09.25-19.22.17:377][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.22.17:377][625]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-19.22.17:378][625]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-20.22.17
+[2026.09.25-19.22.17:379][625]LogWorld: Bringing up level for play took: 0.000643
+[2026.09.25-19.22.17:381][625]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.09.25-19.22.17:381][625]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.09.25-19.22.17:392][625]PIE: Server logged in
+[2026.09.25-19.22.17:394][625]PIE: Play in editor total start time 0.128 seconds.
+[2026.09.25-19.22.17:469][626]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-19.22.27:128][763]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-19.22.28:219][894]LogBlueprintUserMessages: [BP_PeaProjectile_C_0] 80.0
+[2026.09.25-19.22.28:628][943]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-19.22.29:636][ 64]LogBlueprintUserMessages: [BP_PeaProjectile_C_1] 60.0
+[2026.09.25-19.22.30:128][123]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-19.22.31:046][233]LogBlueprintUserMessages: [BP_PeaProjectile_C_2] 40.0
+[2026.09.25-19.22.31:629][303]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-19.22.31:992][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.22.31:992][343]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.22.31:992][343]LogSlate: Window 'PVZ99 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.09.25-19.22.31:997][343]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.22.31:998][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.22.31:998][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-19.22.32:004][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.22.32:027][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.25-19.22.32:027][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.09.25-19.22.32:027][343]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.09.25-19.22.32:029][343]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.09.25-19.22.32:036][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.09.25-19.22.32:066][345]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.09.25-19.25.12:156][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.09.25-19.25.13:407][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.25.13:453][632]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-19.25.13:453][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-19.25.13:453][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-19.25.13:466][632]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-19.25.13:466][632]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile7FC6A254481F2636A91F52909234B089.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-19.25.13:474][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.020 ms (total: 4.27 sec)
+[2026.09.25-19.25.13:536][632]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-19.25.13:536][632]LogContentValidation: Enabled validators:
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.25.13:536][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.25.13:536][632]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-19.25.15:313][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.09.25-19.25.15:324][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-19.25.15:353][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lawn_Test" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Maps/Lawn_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.09.25-19.25.15:390][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.25-19.25.15:403][830]LogSavePackage: Moving output files for package: /Game/Maps/Lawn_Test
+[2026.09.25-19.25.15:403][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Lawn_Test4426B77542E6B7DEE49BC894C0894F42.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Maps/Lawn_Test.umap'
+[2026.09.25-19.25.15:410][830]LogFileHelpers: Saving map 'Lawn_Test' took 0.057
+[2026.09.25-19.25.15:410][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet] ([1] browsable assets)...
+[2026.09.25-19.25.15:410][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet]
+[2026.09.25-19.25.15:422][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet
+[2026.09.25-19.25.15:422][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheetC1C8684640D3489D1E9AF9B011068C04.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet.uasset'
+[2026.09.25-19.25.15:426][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_0] ([1] browsable assets)...
+[2026.09.25-19.25.15:426][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_0]
+[2026.09.25-19.25.15:431][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_0
+[2026.09.25-19.25.15:431][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite1873CF734492CF4F242F1D8C2EB6A7BE.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_0.uasset'
+[2026.09.25-19.25.15:432][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_1] ([1] browsable assets)...
+[2026.09.25-19.25.15:432][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_1]
+[2026.09.25-19.25.15:436][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_1
+[2026.09.25-19.25.15:436][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteD800F34D4D7194DFED3B0599F39AF852.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_1.uasset'
+[2026.09.25-19.25.15:437][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_2] ([1] browsable assets)...
+[2026.09.25-19.25.15:437][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_2]
+[2026.09.25-19.25.15:442][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_2
+[2026.09.25-19.25.15:442][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite1CDEB51847B07D6112C8F4B71ADD255B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_2.uasset'
+[2026.09.25-19.25.15:443][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_3] ([1] browsable assets)...
+[2026.09.25-19.25.15:443][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_3]
+[2026.09.25-19.25.15:448][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_3
+[2026.09.25-19.25.15:448][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite26C6BBF44D768081BFAE788797E2C751.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_3.uasset'
+[2026.09.25-19.25.15:449][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_4] ([1] browsable assets)...
+[2026.09.25-19.25.15:449][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_4]
+[2026.09.25-19.25.15:453][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_4
+[2026.09.25-19.25.15:453][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite08A3D77C4A356DF81AF6138F68C2C85C.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_4.uasset'
+[2026.09.25-19.25.15:454][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_5] ([1] browsable assets)...
+[2026.09.25-19.25.15:454][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_5]
+[2026.09.25-19.25.15:459][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_5
+[2026.09.25-19.25.15:459][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite6325DE374FE952EDE7CFD78BE1CE501F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_5.uasset'
+[2026.09.25-19.25.15:460][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_6] ([1] browsable assets)...
+[2026.09.25-19.25.15:460][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_6]
+[2026.09.25-19.25.15:465][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_6
+[2026.09.25-19.25.15:465][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite6C1B976B4566EA95E893878F2B3DA18B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_6.uasset'
+[2026.09.25-19.25.15:466][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_7] ([1] browsable assets)...
+[2026.09.25-19.25.15:466][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_7]
+[2026.09.25-19.25.15:470][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_7
+[2026.09.25-19.25.15:470][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteB8DF194749DA8DFC3BFC84809AC78425.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_7.uasset'
+[2026.09.25-19.25.15:471][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_8] ([1] browsable assets)...
+[2026.09.25-19.25.15:471][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_8]
+[2026.09.25-19.25.15:475][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_8
+[2026.09.25-19.25.15:475][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite5822110E4A58E149586CE9835EE63BAB.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_8.uasset'
+[2026.09.25-19.25.15:476][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_9] ([1] browsable assets)...
+[2026.09.25-19.25.15:476][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_9]
+[2026.09.25-19.25.15:481][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_9
+[2026.09.25-19.25.15:481][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite2E2355D5404E91BB9DDC5D8A35C4F3F6.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_9.uasset'
+[2026.09.25-19.25.15:481][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_10] ([1] browsable assets)...
+[2026.09.25-19.25.15:481][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_10]
+[2026.09.25-19.25.15:485][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_10
+[2026.09.25-19.25.15:485][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite8AAD5FD84717F8A194B631ADBBE16D96.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_10.uasset'
+[2026.09.25-19.25.15:486][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_11] ([1] browsable assets)...
+[2026.09.25-19.25.15:486][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_11]
+[2026.09.25-19.25.15:491][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_11
+[2026.09.25-19.25.15:491][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite831685C9478C4B89F201BEB56AD030EC.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_11.uasset'
+[2026.09.25-19.25.15:492][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_12] ([1] browsable assets)...
+[2026.09.25-19.25.15:492][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_12]
+[2026.09.25-19.25.15:497][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_12
+[2026.09.25-19.25.15:497][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite77ADC2CA43F9A719E5EFAF8FC7920928.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_12.uasset'
+[2026.09.25-19.25.15:498][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_13] ([1] browsable assets)...
+[2026.09.25-19.25.15:498][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_13]
+[2026.09.25-19.25.15:502][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_13
+[2026.09.25-19.25.15:502][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteEDAC65534D3F4E96961065B8AFE2A0E9.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_13.uasset'
+[2026.09.25-19.25.15:503][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_14] ([1] browsable assets)...
+[2026.09.25-19.25.15:503][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_14]
+[2026.09.25-19.25.15:508][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_14
+[2026.09.25-19.25.15:508][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite00854C0D46DEDC6B82393696AB4BEFD5.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_14.uasset'
+[2026.09.25-19.25.15:509][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_15] ([1] browsable assets)...
+[2026.09.25-19.25.15:509][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_15]
+[2026.09.25-19.25.15:514][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_15
+[2026.09.25-19.25.15:514][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite3EDC778B49B7E52A77222AA3D91A0BE9.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_15.uasset'
+[2026.09.25-19.25.15:515][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_16] ([1] browsable assets)...
+[2026.09.25-19.25.15:515][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_16]
+[2026.09.25-19.25.15:519][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_16
+[2026.09.25-19.25.15:519][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite572FB21242ED40A4247746BD39C3D4BF.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_16.uasset'
+[2026.09.25-19.25.15:520][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_17] ([1] browsable assets)...
+[2026.09.25-19.25.15:520][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_17]
+[2026.09.25-19.25.15:525][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_17
+[2026.09.25-19.25.15:525][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteFD6F9F2A448A5373D74A8FAEE716624E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_17.uasset'
+[2026.09.25-19.25.15:526][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_18] ([1] browsable assets)...
+[2026.09.25-19.25.15:526][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_18]
+[2026.09.25-19.25.15:531][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_18
+[2026.09.25-19.25.15:531][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite220152A945E8EB4E7C6F86BD52DCDDF7.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_18.uasset'
+[2026.09.25-19.25.15:532][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_19] ([1] browsable assets)...
+[2026.09.25-19.25.15:532][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_19]
+[2026.09.25-19.25.15:537][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_19
+[2026.09.25-19.25.15:537][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteF5F513B34EA55B596D07C5AD739CD740.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_19.uasset'
+[2026.09.25-19.25.15:538][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_20] ([1] browsable assets)...
+[2026.09.25-19.25.15:538][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_20]
+[2026.09.25-19.25.15:542][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_20
+[2026.09.25-19.25.15:542][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite964E715C4107E380319B6D9393061147.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_20.uasset'
+[2026.09.25-19.25.15:543][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_21] ([1] browsable assets)...
+[2026.09.25-19.25.15:543][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_21]
+[2026.09.25-19.25.15:548][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_21
+[2026.09.25-19.25.15:548][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite0314B69244A2CC3D16C2F3817D718082.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_21.uasset'
+[2026.09.25-19.25.15:549][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_22] ([1] browsable assets)...
+[2026.09.25-19.25.15:549][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_22]
+[2026.09.25-19.25.15:553][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_22
+[2026.09.25-19.25.15:553][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteB49B06AF48FBA54B4E01DC80BC40E120.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_22.uasset'
+[2026.09.25-19.25.15:555][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_23] ([1] browsable assets)...
+[2026.09.25-19.25.15:555][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_23]
+[2026.09.25-19.25.15:560][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_23
+[2026.09.25-19.25.15:560][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteBAEF288E49A9294CA8FC508EA9F7BD9B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_23.uasset'
+[2026.09.25-19.25.15:561][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_24] ([1] browsable assets)...
+[2026.09.25-19.25.15:561][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_24]
+[2026.09.25-19.25.15:565][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_24
+[2026.09.25-19.25.15:565][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite9659E6644F40AD0CC9E644B0C6E84085.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_24.uasset'
+[2026.09.25-19.25.15:566][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_25] ([1] browsable assets)...
+[2026.09.25-19.25.15:566][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_25]
+[2026.09.25-19.25.15:571][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_25
+[2026.09.25-19.25.15:571][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteD6575D49447F18E2D5F2498577477E23.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_25.uasset'
+[2026.09.25-19.25.15:572][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_26] ([1] browsable assets)...
+[2026.09.25-19.25.15:572][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_26]
+[2026.09.25-19.25.15:577][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_26
+[2026.09.25-19.25.15:577][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteD4CD0EFC406CE099AEF50E82C3DA948D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_26.uasset'
+[2026.09.25-19.25.15:578][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_27] ([1] browsable assets)...
+[2026.09.25-19.25.15:578][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_27]
+[2026.09.25-19.25.15:583][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_27
+[2026.09.25-19.25.15:583][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite707F71754C63305B668F0787DB623147.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_27.uasset'
+[2026.09.25-19.25.15:584][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_28] ([1] browsable assets)...
+[2026.09.25-19.25.15:584][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_28]
+[2026.09.25-19.25.15:589][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_28
+[2026.09.25-19.25.15:589][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteF59CF6E44543358683B0E8BB6964E99E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_28.uasset'
+[2026.09.25-19.25.15:590][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_29] ([1] browsable assets)...
+[2026.09.25-19.25.15:590][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_29]
+[2026.09.25-19.25.15:595][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_29
+[2026.09.25-19.25.15:595][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite2D8B48E8412D0602D12BE29A24B6EFBA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_29.uasset'
+[2026.09.25-19.25.15:596][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_30] ([1] browsable assets)...
+[2026.09.25-19.25.15:596][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_30]
+[2026.09.25-19.25.15:600][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_30
+[2026.09.25-19.25.15:600][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteCDF9020D4195B759C6095B9D835B97F3.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_30.uasset'
+[2026.09.25-19.25.15:601][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_31] ([1] browsable assets)...
+[2026.09.25-19.25.15:601][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_31]
+[2026.09.25-19.25.15:606][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_31
+[2026.09.25-19.25.15:606][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite13CEC9374677F00337A22FBF1CBC984F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_31.uasset'
+[2026.09.25-19.25.15:607][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_32] ([1] browsable assets)...
+[2026.09.25-19.25.15:607][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_32]
+[2026.09.25-19.25.15:612][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_32
+[2026.09.25-19.25.15:612][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite0FFDBCDE41067D1D6EFD989190F5FBA2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_32.uasset'
+[2026.09.25-19.25.15:613][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_33] ([1] browsable assets)...
+[2026.09.25-19.25.15:613][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_33]
+[2026.09.25-19.25.15:617][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_33
+[2026.09.25-19.25.15:617][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteBCD194554F2AE27B6881899D64E68DA7.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_33.uasset'
+[2026.09.25-19.25.15:618][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_34] ([1] browsable assets)...
+[2026.09.25-19.25.15:618][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_34]
+[2026.09.25-19.25.15:623][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_34
+[2026.09.25-19.25.15:623][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite2A4A0BA7438F47190A8780BA33C7FFFD.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_34.uasset'
+[2026.09.25-19.25.15:624][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_35] ([1] browsable assets)...
+[2026.09.25-19.25.15:624][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_35]
+[2026.09.25-19.25.15:629][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_35
+[2026.09.25-19.25.15:629][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite06A2B1F44FF900D60F1F7E878646F709.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_35.uasset'
+[2026.09.25-19.25.15:630][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_36] ([1] browsable assets)...
+[2026.09.25-19.25.15:630][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_36]
+[2026.09.25-19.25.15:635][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_36
+[2026.09.25-19.25.15:635][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite3D4BA34C4088832AB69CBDB331951205.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_36.uasset'
+[2026.09.25-19.25.15:636][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_37] ([1] browsable assets)...
+[2026.09.25-19.25.15:636][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_37]
+[2026.09.25-19.25.15:641][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_37
+[2026.09.25-19.25.15:641][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite3308E82049456CA56D42A6865A04B2CC.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_37.uasset'
+[2026.09.25-19.25.15:641][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_38] ([1] browsable assets)...
+[2026.09.25-19.25.15:641][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_38]
+[2026.09.25-19.25.15:647][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_38
+[2026.09.25-19.25.15:647][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite421508584BFA995AF32169A9CF0FE75E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_38.uasset'
+[2026.09.25-19.25.15:648][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_39] ([1] browsable assets)...
+[2026.09.25-19.25.15:648][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_39]
+[2026.09.25-19.25.15:652][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_39
+[2026.09.25-19.25.15:652][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite2A6A8D2A4F51F278ECB3E48EB18C4CF1.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_39.uasset'
+[2026.09.25-19.25.15:653][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_40] ([1] browsable assets)...
+[2026.09.25-19.25.15:653][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_40]
+[2026.09.25-19.25.15:657][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_40
+[2026.09.25-19.25.15:657][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteDB9B089D4AB5D4C4E77C658E382B8A46.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_40.uasset'
+[2026.09.25-19.25.15:658][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_41] ([1] browsable assets)...
+[2026.09.25-19.25.15:658][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_41]
+[2026.09.25-19.25.15:663][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_41
+[2026.09.25-19.25.15:663][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite6BE682BD4A49A18FED2DA99C37A9FD90.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_41.uasset'
+[2026.09.25-19.25.15:664][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_42] ([1] browsable assets)...
+[2026.09.25-19.25.15:664][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_42]
+[2026.09.25-19.25.15:668][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_42
+[2026.09.25-19.25.15:668][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteD9C1C80346C064C63F5702851E793E05.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_42.uasset'
+[2026.09.25-19.25.15:669][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_43] ([1] browsable assets)...
+[2026.09.25-19.25.15:669][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_43]
+[2026.09.25-19.25.15:674][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_43
+[2026.09.25-19.25.15:674][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite3BC8E4D748A4AA1C0C7F24B3C3C365CE.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_43.uasset'
+[2026.09.25-19.25.15:675][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_44] ([1] browsable assets)...
+[2026.09.25-19.25.15:675][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_44]
+[2026.09.25-19.25.15:679][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_44
+[2026.09.25-19.25.15:679][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteE95F33384FE610D1B5930090CF0C887B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_44.uasset'
+[2026.09.25-19.25.15:680][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_45] ([1] browsable assets)...
+[2026.09.25-19.25.15:680][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_45]
+[2026.09.25-19.25.15:685][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_45
+[2026.09.25-19.25.15:685][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite6FFD5F234758FC43878C26B06A2AB314.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_45.uasset'
+[2026.09.25-19.25.15:686][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_46] ([1] browsable assets)...
+[2026.09.25-19.25.15:686][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_46]
+[2026.09.25-19.25.15:691][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_46
+[2026.09.25-19.25.15:691][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteA2BBD127475F29E3F9A50087DFB75F7D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_46.uasset'
+[2026.09.25-19.25.15:692][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_47] ([1] browsable assets)...
+[2026.09.25-19.25.15:692][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_47]
+[2026.09.25-19.25.15:697][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_47
+[2026.09.25-19.25.15:697][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite324ED62E4EBA20D797B462986DDAB7E2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_47.uasset'
+[2026.09.25-19.25.15:698][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_48] ([1] browsable assets)...
+[2026.09.25-19.25.15:698][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_48]
+[2026.09.25-19.25.15:703][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_48
+[2026.09.25-19.25.15:703][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteBAB9BBFD4878B79FFD58B8BDBC5F8425.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_48.uasset'
+[2026.09.25-19.25.15:704][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_49] ([1] browsable assets)...
+[2026.09.25-19.25.15:704][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_49]
+[2026.09.25-19.25.15:708][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_49
+[2026.09.25-19.25.15:708][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteE79BA3A74E1F56FC942CF1A20E489DF6.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_49.uasset'
+[2026.09.25-19.25.15:709][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_50] ([1] browsable assets)...
+[2026.09.25-19.25.15:709][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_50]
+[2026.09.25-19.25.15:713][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_50
+[2026.09.25-19.25.15:713][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_SpriteFF3DF6E94D16818B06587ABFA0039485.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_50.uasset'
+[2026.09.25-19.25.15:715][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_51] ([1] browsable assets)...
+[2026.09.25-19.25.15:715][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_51]
+[2026.09.25-19.25.15:719][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_51
+[2026.09.25-19.25.15:719][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite55CD855B4340C138A7DD7D8392479E40.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_51.uasset'
+[2026.09.25-19.25.15:720][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_52] ([1] browsable assets)...
+[2026.09.25-19.25.15:720][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_52]
+[2026.09.25-19.25.15:724][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_52
+[2026.09.25-19.25.15:724][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite7CDA9DDD4E50EEBD31B2F5830C4929E0.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_52.uasset'
+[2026.09.25-19.25.15:725][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_53] ([1] browsable assets)...
+[2026.09.25-19.25.15:725][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_53]
+[2026.09.25-19.25.15:729][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_53
+[2026.09.25-19.25.15:729][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite2020B6C947746C8257914CBA92C3D295.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_53.uasset'
+[2026.09.25-19.25.15:730][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_54] ([1] browsable assets)...
+[2026.09.25-19.25.15:730][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_54]
+[2026.09.25-19.25.15:735][830]LogSavePackage: Moving output files for package: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_54
+[2026.09.25-19.25.15:735][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Zombie1_Dying_spritesheet_Sprite0DD40E7F484A724020419B8EBE1728FD.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_54.uasset'
+[2026.09.25-19.25.15:736][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet] ([1] browsable assets)...
+[2026.09.25-19.25.15:736][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet]
+[2026.09.25-19.25.15:745][830]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/Sunflower_Idle_spritesheet
+[2026.09.25-19.25.15:745][830]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet66E758334263F0FA11FA81B5CEEA60AA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/Sunflower_Idle_spritesheet.uasset'
+[2026.09.25-19.25.15:756][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 432.142 ms (total: 4.70 sec)
+[2026.09.25-19.25.15:819][830]LogContentValidation: Display: Starting to validate 58 assets
+[2026.09.25-19.25.15:819][830]LogContentValidation: Enabled validators:
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-19.25.15:819][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Maps/Lawn_Test Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_0 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_1 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_2 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_3 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_4 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_5 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_6 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_7 Validating asset
+[2026.09.25-19.25.15:819][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_8 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_9 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_10 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_11 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_12 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_13 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_14 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_15 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_16 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_17 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_18 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_19 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_20 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_21 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_22 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_23 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_24 Validating asset
+[2026.09.25-19.25.15:820][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_25 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_26 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_27 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_28 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_29 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_30 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_31 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_32 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_33 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_34 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_35 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_36 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_37 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_38 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_39 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_40 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_41 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_42 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_43 Validating asset
+[2026.09.25-19.25.15:821][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_44 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_45 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_46 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_47 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_48 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_49 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_50 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_51 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_52 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_53 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/Zombie1/ZDead/Zombie1_Dying_spritesheet_Sprite_54 Validating asset
+[2026.09.25-19.25.15:822][830]AssetCheck: /Game/Sprites/SunFlower/Sunflower_Idle_spritesheet Validating asset
+[2026.09.25-19.25.15:837][830]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.25-19.25.16:469][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-19.25.16:473][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-19.25.16:473][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.25.16:476][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2026.09.25-19.25.16:476][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002107s)
+[2026.09.25-19.25.16:499][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-19.25.16:502][905]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-19.25.16:504][905]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2026.09.25-19.25.16:505][905]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-19.25.16:505][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-19.25.16:505][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-19.25.16:505][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-19.25.16:505][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-19.25.16:505][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-19.25.16:507][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-19.25.16:521][905]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-19.25.16:521][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-19.25.16:521][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-19.25.16:521][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-19.25.16:521][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.09.25-19.25.16:521][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.09.25-19.25.16:524][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.09.25-19.25.16:524][905]LogInit: FAudioDevice initialized with ID 31.
+[2026.09.25-19.25.16:524][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.09.25-19.25.16:524][905]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lawn_Test'.
+[2026.09.25-19.25.16:524][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.09.25-19.25.16:568][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.25.16:569][905]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-19.25.16:570][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-20.25.16
+[2026.09.25-19.25.16:570][905]LogWorld: Bringing up level for play took: 0.000806
+[2026.09.25-19.25.16:572][905]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.09.25-19.25.16:572][905]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.09.25-19.25.16:582][905]PIE: Server logged in
+[2026.09.25-19.25.16:583][905]PIE: Play in editor total start time 0.109 seconds.
+[2026.09.25-19.25.16:658][906]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-19.25.23:100][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-19.25.23:100][661]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-19.25.23:100][661]LogSlate: Window 'PVZ99 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.09.25-19.25.23:105][661]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-19.25.23:105][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.25.23:106][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-19.25.23:112][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-19.25.23:136][661]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.09.25-19.25.23:136][661]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.09.25-19.25.23:138][661]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.09.25-19.25.23:144][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.09.25-19.25.23:162][662]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.09.25-19.27.43:448][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8590.069336
+[2026.09.25-19.27.44:448][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.27.44:448][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8590.736328, Update Interval: 332.284302
+[2026.09.25-19.34.05:468][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8972.042969
+[2026.09.25-19.34.06:468][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.34.06:468][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8972.708984, Update Interval: 305.815613
