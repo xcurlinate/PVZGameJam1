@@ -4055,3 +4055,1398 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.25-18.17.18:764][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4365.239258
 [2026.09.25-18.17.19:763][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.25-18.17.19:763][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4365.905762, Update Interval: 339.951172
+[2026.09.25-18.23.41:120][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4747.585938
+[2026.09.25-18.23.42:121][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.23.42:121][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4748.251465, Update Interval: 324.980011
+[2026.09.25-18.24.30:953][705]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.25-18.24.30:959][705]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.25-18.24.30:966][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.25-18.24.34:437][122]LogContentBrowser: Attempting asset rename: NewFolder -> SunFlower
+[2026.09.25-18.24.34:438][122]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.25-18.25.03:002][899]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.25-18.25.03:014][899]LogInterchangeEngine: [Pending] Importing
+[2026.09.25-18.25.03:014][899]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Neutron Lab/Downloads/Sunflower_Idle_spritesheet.png]
+[2026.09.25-18.25.03:082][901]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.25-18.25.03:092][903]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.09.25-18.25.03:101][904]LogTexture: Display: Building textures: /Game/Sprites/SunFlower/Sunflower_Idle_spritesheet.Sunflower_Idle_spritesheet (BGRA8, 464x1905 x1x1x1) (Required Memory Estimate: 31.346985 MB), EncodeSpeed: Fast
+[2026.09.25-18.25.03:122][905]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Neutron Lab/Downloads/Sunflower_Idle_spritesheet.png]
+[2026.09.25-18.25.03:126][905]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.25-18.25.03:126][905]LogInterchangeEngine: [Success] Import Done
+[2026.09.25-18.25.05:931][185]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.25-18.25.05:936][185]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.25-18.25.05:942][186]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.25-18.25.11:821][890]LogContentBrowser: Attempting asset rename: NewFolder -> SunIdle
+[2026.09.25-18.25.11:821][890]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.25-18.25.19:589][680]LogSlate: Window 'Extract sprites' being destroyed
+[2026.09.25-18.25.28:646][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.25.28:647][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0] ([1] browsable assets)...
+[2026.09.25-18.25.28:650][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0.Sunflower_Idle_spritesheet_Sprite_0]
+[2026.09.25-18.25.28:650][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0]
+[2026.09.25-18.25.28:657][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0
+[2026.09.25-18.25.28:657][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritABFFB9B0407BB08F71773C8CAC0D96FE.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0.uasset'
+[2026.09.25-18.25.28:658][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1] ([1] browsable assets)...
+[2026.09.25-18.25.28:659][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1.Sunflower_Idle_spritesheet_Sprite_1]
+[2026.09.25-18.25.28:659][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1]
+[2026.09.25-18.25.28:665][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1
+[2026.09.25-18.25.28:665][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritD36C35344E65FA11F9515E9BE1950483.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1.uasset'
+[2026.09.25-18.25.28:666][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2] ([1] browsable assets)...
+[2026.09.25-18.25.28:670][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2.Sunflower_Idle_spritesheet_Sprite_2]
+[2026.09.25-18.25.28:670][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2]
+[2026.09.25-18.25.28:675][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2
+[2026.09.25-18.25.28:675][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritA458965540CE5823BEF60DBD6ADFCCED.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2.uasset'
+[2026.09.25-18.25.28:676][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3] ([1] browsable assets)...
+[2026.09.25-18.25.28:678][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3.Sunflower_Idle_spritesheet_Sprite_3]
+[2026.09.25-18.25.28:678][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3]
+[2026.09.25-18.25.28:683][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3
+[2026.09.25-18.25.28:683][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritC707F9B649361600CA45F39FC65D4D24.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3.uasset'
+[2026.09.25-18.25.28:683][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4] ([1] browsable assets)...
+[2026.09.25-18.25.28:685][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4.Sunflower_Idle_spritesheet_Sprite_4]
+[2026.09.25-18.25.28:685][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4]
+[2026.09.25-18.25.28:690][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4
+[2026.09.25-18.25.28:690][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritEB5FE1ED455B96CB64882E8EE13A9250.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4.uasset'
+[2026.09.25-18.25.28:691][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5] ([1] browsable assets)...
+[2026.09.25-18.25.28:692][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5.Sunflower_Idle_spritesheet_Sprite_5]
+[2026.09.25-18.25.28:692][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5]
+[2026.09.25-18.25.28:697][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5
+[2026.09.25-18.25.28:697][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit186CABEF471F1706FFC53DB861B93778.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5.uasset'
+[2026.09.25-18.25.28:697][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6] ([1] browsable assets)...
+[2026.09.25-18.25.28:699][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6.Sunflower_Idle_spritesheet_Sprite_6]
+[2026.09.25-18.25.28:699][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6]
+[2026.09.25-18.25.28:703][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6
+[2026.09.25-18.25.28:703][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit55125A4547886CCBE3137C94CC6FD6FC.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6.uasset'
+[2026.09.25-18.25.28:704][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7] ([1] browsable assets)...
+[2026.09.25-18.25.28:707][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7.Sunflower_Idle_spritesheet_Sprite_7]
+[2026.09.25-18.25.28:707][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7]
+[2026.09.25-18.25.28:712][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7
+[2026.09.25-18.25.28:712][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritB3931FCE4EBB87387136BEAC990BEF66.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7.uasset'
+[2026.09.25-18.25.28:713][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8] ([1] browsable assets)...
+[2026.09.25-18.25.28:714][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8.Sunflower_Idle_spritesheet_Sprite_8]
+[2026.09.25-18.25.28:714][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8]
+[2026.09.25-18.25.28:719][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8
+[2026.09.25-18.25.28:719][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritAC722E9744F2661D1A9E0B88F78693E9.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8.uasset'
+[2026.09.25-18.25.28:720][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9] ([1] browsable assets)...
+[2026.09.25-18.25.28:721][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9.Sunflower_Idle_spritesheet_Sprite_9]
+[2026.09.25-18.25.28:721][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9]
+[2026.09.25-18.25.28:726][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9
+[2026.09.25-18.25.28:726][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit70470770483DFDBDFFEBB58FD8ACF628.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9.uasset'
+[2026.09.25-18.25.28:727][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10] ([1] browsable assets)...
+[2026.09.25-18.25.28:728][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10.Sunflower_Idle_spritesheet_Sprite_10]
+[2026.09.25-18.25.28:728][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10]
+[2026.09.25-18.25.28:733][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10
+[2026.09.25-18.25.28:733][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit0E435F44464AD0B89EDCCC8DA754FCCA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10.uasset'
+[2026.09.25-18.25.28:733][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11] ([1] browsable assets)...
+[2026.09.25-18.25.28:737][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11.Sunflower_Idle_spritesheet_Sprite_11]
+[2026.09.25-18.25.28:737][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11]
+[2026.09.25-18.25.28:741][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11
+[2026.09.25-18.25.28:741][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritE7F7D2D04B42D1F6507806A432160F33.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11.uasset'
+[2026.09.25-18.25.28:742][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12] ([1] browsable assets)...
+[2026.09.25-18.25.28:743][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12.Sunflower_Idle_spritesheet_Sprite_12]
+[2026.09.25-18.25.28:743][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12]
+[2026.09.25-18.25.28:748][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12
+[2026.09.25-18.25.28:748][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritDA67B73044D91A3FFAA289B3EE26C918.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12.uasset'
+[2026.09.25-18.25.28:749][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13] ([1] browsable assets)...
+[2026.09.25-18.25.28:750][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13.Sunflower_Idle_spritesheet_Sprite_13]
+[2026.09.25-18.25.28:750][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13]
+[2026.09.25-18.25.28:756][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13
+[2026.09.25-18.25.28:756][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit66F08A3440110EC04B9336BE96DB2A62.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13.uasset'
+[2026.09.25-18.25.28:758][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14] ([1] browsable assets)...
+[2026.09.25-18.25.28:759][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14.Sunflower_Idle_spritesheet_Sprite_14]
+[2026.09.25-18.25.28:759][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14]
+[2026.09.25-18.25.28:763][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14
+[2026.09.25-18.25.28:763][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritAD5F4E6442D175C2D1E838975A8FFE6E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14.uasset'
+[2026.09.25-18.25.28:764][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15] ([1] browsable assets)...
+[2026.09.25-18.25.28:768][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15.Sunflower_Idle_spritesheet_Sprite_15]
+[2026.09.25-18.25.28:768][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15]
+[2026.09.25-18.25.28:773][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15
+[2026.09.25-18.25.28:773][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit04A326C9499A0D9142F4719D975B06DA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15.uasset'
+[2026.09.25-18.25.28:773][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16] ([1] browsable assets)...
+[2026.09.25-18.25.28:775][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16.Sunflower_Idle_spritesheet_Sprite_16]
+[2026.09.25-18.25.28:775][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16]
+[2026.09.25-18.25.28:780][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16
+[2026.09.25-18.25.28:780][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit8F8CC4904690C70220BEDCAC9BA19CEC.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16.uasset'
+[2026.09.25-18.25.28:781][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17] ([1] browsable assets)...
+[2026.09.25-18.25.28:782][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17.Sunflower_Idle_spritesheet_Sprite_17]
+[2026.09.25-18.25.28:782][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17]
+[2026.09.25-18.25.28:787][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17
+[2026.09.25-18.25.28:787][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit7D04DA2D48CBC6F36C12B29B8FD523DE.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17.uasset'
+[2026.09.25-18.25.28:788][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18] ([1] browsable assets)...
+[2026.09.25-18.25.28:789][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18.Sunflower_Idle_spritesheet_Sprite_18]
+[2026.09.25-18.25.28:789][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18]
+[2026.09.25-18.25.28:793][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18
+[2026.09.25-18.25.28:793][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritDB5535EF473FAFAAA0A15386245B4259.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18.uasset'
+[2026.09.25-18.25.28:794][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19] ([1] browsable assets)...
+[2026.09.25-18.25.28:796][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19.Sunflower_Idle_spritesheet_Sprite_19]
+[2026.09.25-18.25.28:796][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19]
+[2026.09.25-18.25.28:800][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19
+[2026.09.25-18.25.28:800][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritBADF51DF4A046FD4D59AB7A0DF93E1D8.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19.uasset'
+[2026.09.25-18.25.28:801][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20] ([1] browsable assets)...
+[2026.09.25-18.25.28:803][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20.Sunflower_Idle_spritesheet_Sprite_20]
+[2026.09.25-18.25.28:803][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20]
+[2026.09.25-18.25.28:809][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20
+[2026.09.25-18.25.28:809][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritCD61FA8448C438193A53CC91E70EA11B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20.uasset'
+[2026.09.25-18.25.28:810][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21] ([1] browsable assets)...
+[2026.09.25-18.25.28:811][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21.Sunflower_Idle_spritesheet_Sprite_21]
+[2026.09.25-18.25.28:811][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21]
+[2026.09.25-18.25.28:815][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21
+[2026.09.25-18.25.28:815][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit99D5FF3B401FD88410EBB584D8E37B9F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21.uasset'
+[2026.09.25-18.25.28:816][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22] ([1] browsable assets)...
+[2026.09.25-18.25.28:817][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22.Sunflower_Idle_spritesheet_Sprite_22]
+[2026.09.25-18.25.28:817][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22]
+[2026.09.25-18.25.28:822][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22
+[2026.09.25-18.25.28:822][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit44FFE8CE47CE953D2AF5EB8CAD6E26E4.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22.uasset'
+[2026.09.25-18.25.28:823][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23] ([1] browsable assets)...
+[2026.09.25-18.25.28:824][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23.Sunflower_Idle_spritesheet_Sprite_23]
+[2026.09.25-18.25.28:824][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23]
+[2026.09.25-18.25.28:829][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23
+[2026.09.25-18.25.28:829][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit2A82BA124FB39C739C2CE19264D1CFE6.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23.uasset'
+[2026.09.25-18.25.28:830][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24] ([1] browsable assets)...
+[2026.09.25-18.25.28:831][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24.Sunflower_Idle_spritesheet_Sprite_24]
+[2026.09.25-18.25.28:831][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24]
+[2026.09.25-18.25.28:836][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24
+[2026.09.25-18.25.28:836][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit70F474114CF141DC4812658FA7D7F8F2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24.uasset'
+[2026.09.25-18.25.28:837][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25] ([1] browsable assets)...
+[2026.09.25-18.25.28:838][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25.Sunflower_Idle_spritesheet_Sprite_25]
+[2026.09.25-18.25.28:838][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25]
+[2026.09.25-18.25.28:843][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25
+[2026.09.25-18.25.28:843][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritD5D44DBF431A7852B621718A15A91D1A.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25.uasset'
+[2026.09.25-18.25.28:844][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26] ([1] browsable assets)...
+[2026.09.25-18.25.28:847][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26.Sunflower_Idle_spritesheet_Sprite_26]
+[2026.09.25-18.25.28:847][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26]
+[2026.09.25-18.25.28:851][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26
+[2026.09.25-18.25.28:851][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritEBCB1C2A4ABA4901092B9EBE62690F42.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26.uasset'
+[2026.09.25-18.25.28:852][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27] ([1] browsable assets)...
+[2026.09.25-18.25.28:853][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27.Sunflower_Idle_spritesheet_Sprite_27]
+[2026.09.25-18.25.28:853][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27]
+[2026.09.25-18.25.28:858][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27
+[2026.09.25-18.25.28:858][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit43ED029848D96453A1C54DB871AE8171.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27.uasset'
+[2026.09.25-18.25.28:859][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28] ([1] browsable assets)...
+[2026.09.25-18.25.28:860][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28.Sunflower_Idle_spritesheet_Sprite_28]
+[2026.09.25-18.25.28:860][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28]
+[2026.09.25-18.25.28:864][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28
+[2026.09.25-18.25.28:864][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit55CA08414F4B3F6D577047B03FABCE6F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28.uasset'
+[2026.09.25-18.25.28:865][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29] ([1] browsable assets)...
+[2026.09.25-18.25.28:871][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29.Sunflower_Idle_spritesheet_Sprite_29]
+[2026.09.25-18.25.28:871][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29]
+[2026.09.25-18.25.28:876][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29
+[2026.09.25-18.25.28:876][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit1FFD154947473EF03790F59214F526F1.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29.uasset'
+[2026.09.25-18.25.28:877][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30] ([1] browsable assets)...
+[2026.09.25-18.25.28:879][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30.Sunflower_Idle_spritesheet_Sprite_30]
+[2026.09.25-18.25.28:879][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30]
+[2026.09.25-18.25.28:885][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30
+[2026.09.25-18.25.28:885][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritC9C1A0314AE7774D5758DB86484D292D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30.uasset'
+[2026.09.25-18.25.28:885][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31] ([1] browsable assets)...
+[2026.09.25-18.25.28:887][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31.Sunflower_Idle_spritesheet_Sprite_31]
+[2026.09.25-18.25.28:887][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31]
+[2026.09.25-18.25.28:892][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31
+[2026.09.25-18.25.28:892][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritD2B60A324C740A73D82869BA974AD945.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31.uasset'
+[2026.09.25-18.25.28:893][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32] ([1] browsable assets)...
+[2026.09.25-18.25.28:893][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32.Sunflower_Idle_spritesheet_Sprite_32]
+[2026.09.25-18.25.28:893][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32]
+[2026.09.25-18.25.28:899][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32
+[2026.09.25-18.25.28:899][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit60F4A8CF482A4917820A95828D5C89D8.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32.uasset'
+[2026.09.25-18.25.28:899][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33] ([1] browsable assets)...
+[2026.09.25-18.25.28:901][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33.Sunflower_Idle_spritesheet_Sprite_33]
+[2026.09.25-18.25.28:901][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33]
+[2026.09.25-18.25.28:906][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33
+[2026.09.25-18.25.28:906][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit6D2C59F642189F8E17975DABA72E4A9E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33.uasset'
+[2026.09.25-18.25.28:907][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34] ([1] browsable assets)...
+[2026.09.25-18.25.28:908][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34.Sunflower_Idle_spritesheet_Sprite_34]
+[2026.09.25-18.25.28:908][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34]
+[2026.09.25-18.25.28:913][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34
+[2026.09.25-18.25.28:913][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit51B6AE5542D9E5B2370D7D91AF171722.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34.uasset'
+[2026.09.25-18.25.28:913][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35] ([1] browsable assets)...
+[2026.09.25-18.25.28:915][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35.Sunflower_Idle_spritesheet_Sprite_35]
+[2026.09.25-18.25.28:915][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35]
+[2026.09.25-18.25.28:920][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35
+[2026.09.25-18.25.28:920][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit11CD451D417C2E8722BFA6A65FCB2D2D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35.uasset'
+[2026.09.25-18.25.28:921][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36] ([1] browsable assets)...
+[2026.09.25-18.25.28:922][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36.Sunflower_Idle_spritesheet_Sprite_36]
+[2026.09.25-18.25.28:922][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36]
+[2026.09.25-18.25.28:927][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36
+[2026.09.25-18.25.28:927][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritD50891074B9A635125B852BC5636EC00.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36.uasset'
+[2026.09.25-18.25.28:927][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37] ([1] browsable assets)...
+[2026.09.25-18.25.28:928][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37.Sunflower_Idle_spritesheet_Sprite_37]
+[2026.09.25-18.25.28:928][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37]
+[2026.09.25-18.25.28:933][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37
+[2026.09.25-18.25.28:933][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritED16AEEE43E98300571E4AAB4183947E.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37.uasset'
+[2026.09.25-18.25.28:933][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38] ([1] browsable assets)...
+[2026.09.25-18.25.28:938][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38.Sunflower_Idle_spritesheet_Sprite_38]
+[2026.09.25-18.25.28:938][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38]
+[2026.09.25-18.25.28:943][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38
+[2026.09.25-18.25.28:943][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritFD4D2ACD4DFADDF321CB79BACFD058EF.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38.uasset'
+[2026.09.25-18.25.28:943][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39] ([1] browsable assets)...
+[2026.09.25-18.25.28:947][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39.Sunflower_Idle_spritesheet_Sprite_39]
+[2026.09.25-18.25.28:947][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39]
+[2026.09.25-18.25.28:952][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39
+[2026.09.25-18.25.28:952][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit5931BB0A42C18C2CF894D5821263A237.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39.uasset'
+[2026.09.25-18.25.28:953][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40] ([1] browsable assets)...
+[2026.09.25-18.25.28:954][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40.Sunflower_Idle_spritesheet_Sprite_40]
+[2026.09.25-18.25.28:954][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40]
+[2026.09.25-18.25.28:959][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40
+[2026.09.25-18.25.28:959][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit09B325044A6BC2DE7EC9BD9E1BDEC5BA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40.uasset'
+[2026.09.25-18.25.28:960][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41] ([1] browsable assets)...
+[2026.09.25-18.25.28:962][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41.Sunflower_Idle_spritesheet_Sprite_41]
+[2026.09.25-18.25.28:962][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41]
+[2026.09.25-18.25.28:967][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41
+[2026.09.25-18.25.28:967][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritF8A4F82745A26706EA0A419603819703.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41.uasset'
+[2026.09.25-18.25.28:967][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42] ([1] browsable assets)...
+[2026.09.25-18.25.28:969][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42.Sunflower_Idle_spritesheet_Sprite_42]
+[2026.09.25-18.25.28:969][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42]
+[2026.09.25-18.25.28:973][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42
+[2026.09.25-18.25.28:973][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritE575121549F011B9FA45FBB09F34EA89.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42.uasset'
+[2026.09.25-18.25.28:974][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43] ([1] browsable assets)...
+[2026.09.25-18.25.28:976][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43.Sunflower_Idle_spritesheet_Sprite_43]
+[2026.09.25-18.25.28:976][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43]
+[2026.09.25-18.25.28:980][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43
+[2026.09.25-18.25.28:980][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritA3204937489B788643A6F88A22496A3B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43.uasset'
+[2026.09.25-18.25.28:981][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44] ([1] browsable assets)...
+[2026.09.25-18.25.28:983][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44.Sunflower_Idle_spritesheet_Sprite_44]
+[2026.09.25-18.25.28:983][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44]
+[2026.09.25-18.25.28:988][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44
+[2026.09.25-18.25.28:988][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit7B82352942C78B956B6F71ADCA9241A4.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44.uasset'
+[2026.09.25-18.25.28:988][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45] ([1] browsable assets)...
+[2026.09.25-18.25.28:990][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45.Sunflower_Idle_spritesheet_Sprite_45]
+[2026.09.25-18.25.28:990][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45]
+[2026.09.25-18.25.28:994][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45
+[2026.09.25-18.25.28:994][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit8942F7FA45A7FA098A96B895598C729C.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45.uasset'
+[2026.09.25-18.25.28:995][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46] ([1] browsable assets)...
+[2026.09.25-18.25.28:997][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46.Sunflower_Idle_spritesheet_Sprite_46]
+[2026.09.25-18.25.28:997][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46]
+[2026.09.25-18.25.29:001][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46
+[2026.09.25-18.25.29:001][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit465E3B1D4367C1B391BDED94DA3DB90B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46.uasset'
+[2026.09.25-18.25.29:002][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47] ([1] browsable assets)...
+[2026.09.25-18.25.29:005][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47.Sunflower_Idle_spritesheet_Sprite_47]
+[2026.09.25-18.25.29:005][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47]
+[2026.09.25-18.25.29:010][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47
+[2026.09.25-18.25.29:010][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit849E248C4D0EF51B7C6C76BE071086B8.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47.uasset'
+[2026.09.25-18.25.29:011][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48] ([1] browsable assets)...
+[2026.09.25-18.25.29:013][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48.Sunflower_Idle_spritesheet_Sprite_48]
+[2026.09.25-18.25.29:013][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48]
+[2026.09.25-18.25.29:018][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48
+[2026.09.25-18.25.29:018][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritB07786F946B8EAEAFE61FEB216139DAA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48.uasset'
+[2026.09.25-18.25.29:018][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49] ([1] browsable assets)...
+[2026.09.25-18.25.29:020][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49.Sunflower_Idle_spritesheet_Sprite_49]
+[2026.09.25-18.25.29:020][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49]
+[2026.09.25-18.25.29:024][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49
+[2026.09.25-18.25.29:024][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit487161E2453EDF3A2C8EB2AEBD96F496.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49.uasset'
+[2026.09.25-18.25.29:025][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50] ([1] browsable assets)...
+[2026.09.25-18.25.29:026][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50.Sunflower_Idle_spritesheet_Sprite_50]
+[2026.09.25-18.25.29:026][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50]
+[2026.09.25-18.25.29:030][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50
+[2026.09.25-18.25.29:030][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit0E930C264E06CA9B6E31E08B7B672431.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50.uasset'
+[2026.09.25-18.25.29:031][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51] ([1] browsable assets)...
+[2026.09.25-18.25.29:032][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51.Sunflower_Idle_spritesheet_Sprite_51]
+[2026.09.25-18.25.29:032][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51]
+[2026.09.25-18.25.29:036][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51
+[2026.09.25-18.25.29:036][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritA3E085704AB47341D7C085B1C2A224B3.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51.uasset'
+[2026.09.25-18.25.29:038][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52] ([1] browsable assets)...
+[2026.09.25-18.25.29:040][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52.Sunflower_Idle_spritesheet_Sprite_52]
+[2026.09.25-18.25.29:040][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52]
+[2026.09.25-18.25.29:044][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52
+[2026.09.25-18.25.29:044][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit04A7DEA5499D48FFEE3002A5215B6042.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52.uasset'
+[2026.09.25-18.25.29:045][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53] ([1] browsable assets)...
+[2026.09.25-18.25.29:047][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53.Sunflower_Idle_spritesheet_Sprite_53]
+[2026.09.25-18.25.29:047][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53]
+[2026.09.25-18.25.29:051][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53
+[2026.09.25-18.25.29:051][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritC9D5342643538FF908B54F8CEEF2E858.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53.uasset'
+[2026.09.25-18.25.29:052][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54] ([1] browsable assets)...
+[2026.09.25-18.25.29:053][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54.Sunflower_Idle_spritesheet_Sprite_54]
+[2026.09.25-18.25.29:053][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54]
+[2026.09.25-18.25.29:058][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54
+[2026.09.25-18.25.29:058][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit42DD8CFE4DAD5B2C3E40499BB2B160C2.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54.uasset'
+[2026.09.25-18.25.29:059][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55] ([1] browsable assets)...
+[2026.09.25-18.25.29:060][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55.Sunflower_Idle_spritesheet_Sprite_55]
+[2026.09.25-18.25.29:060][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55]
+[2026.09.25-18.25.29:065][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55
+[2026.09.25-18.25.29:065][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritC2A88A4E461DFA0AAFBB39B326AC61AA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55.uasset'
+[2026.09.25-18.25.29:066][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56] ([1] browsable assets)...
+[2026.09.25-18.25.29:072][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56.Sunflower_Idle_spritesheet_Sprite_56]
+[2026.09.25-18.25.29:073][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56]
+[2026.09.25-18.25.29:078][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56
+[2026.09.25-18.25.29:078][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit1D527A0640421359B1611EA5DD946090.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56.uasset'
+[2026.09.25-18.25.29:078][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57] ([1] browsable assets)...
+[2026.09.25-18.25.29:080][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57.Sunflower_Idle_spritesheet_Sprite_57]
+[2026.09.25-18.25.29:080][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57]
+[2026.09.25-18.25.29:085][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57
+[2026.09.25-18.25.29:085][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritE746275D44D34CAF1916E88ED4B79E2B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57.uasset'
+[2026.09.25-18.25.29:085][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58] ([1] browsable assets)...
+[2026.09.25-18.25.29:087][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58.Sunflower_Idle_spritesheet_Sprite_58]
+[2026.09.25-18.25.29:087][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58]
+[2026.09.25-18.25.29:091][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58
+[2026.09.25-18.25.29:091][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_SpritCD7863FB442E5C78CE7343830501E59B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58.uasset'
+[2026.09.25-18.25.29:092][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59] ([1] browsable assets)...
+[2026.09.25-18.25.29:093][443]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59.Sunflower_Idle_spritesheet_Sprite_59]
+[2026.09.25-18.25.29:093][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59]
+[2026.09.25-18.25.29:098][443]LogSavePackage: Moving output files for package: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59
+[2026.09.25-18.25.29:098][443]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Sprit08210DAE4968CDA81D7460B35551A6EA.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59.uasset'
+[2026.09.25-18.25.29:100][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 453.564 ms (total: 2.43 sec)
+[2026.09.25-18.25.29:755][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.09.25-18.25.29:784][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.09.25-18.25.29:803][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.09.25-18.25.29:828][443]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.09.25-18.25.29:829][443]LogContentValidation: Display: Starting to validate 60 assets
+[2026.09.25-18.25.29:829][443]LogContentValidation: Enabled validators:
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.25.29:829][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_0 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_1 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_2 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_3 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_4 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_5 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_6 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_7 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_8 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_9 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_10 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_11 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_12 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_13 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_14 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_15 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_16 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_17 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_18 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_19 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_20 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_21 Validating asset
+[2026.09.25-18.25.29:829][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_22 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_23 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_24 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_25 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_26 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_27 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_28 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_29 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_30 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_31 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_32 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_33 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_34 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_35 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_36 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_37 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_38 Validating asset
+[2026.09.25-18.25.29:830][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_39 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_40 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_41 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_42 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_43 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_44 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_45 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_46 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_47 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_48 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_49 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_50 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_51 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_52 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_53 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_54 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_55 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_56 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_57 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_58 Validating asset
+[2026.09.25-18.25.29:831][443]AssetCheck: /Game/Sprites/SunFlower/SunIdle/Sunflower_Idle_spritesheet_Sprite_59 Validating asset
+[2026.09.25-18.25.29:842][443]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.25-18.25.38:363][271]LogContentBrowser: Deferred new asset file creation: Sunflower_Idle_spritesheet
+[2026.09.25-18.25.38:368][271]LogContentBrowser: Creating deferred item: Sunflower_Idle_spritesheet
+[2026.09.25-18.25.38:395][272]LogContentBrowser: Renaming the item being created (Deferred Item: Sunflower_Idle_spritesheet).
+[2026.09.25-18.25.41:233][613]LogContentBrowser: Attempting asset rename: Sunflower_Idle_spritesheet -> SunIdle
+[2026.09.25-18.25.41:234][613]LogContentBrowser: End creating deferred item Sunflower_Idle_spritesheet
+[2026.09.25-18.25.47:365][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.25.47:365][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/PeaShooter/Flipbooks/SunIdle] ([1] browsable assets)...
+[2026.09.25-18.25.47:367][256]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Sprites/PeaShooter/Flipbooks/SunIdle.SunIdle]
+[2026.09.25-18.25.47:367][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/PeaShooter/Flipbooks/SunIdle]
+[2026.09.25-18.25.47:374][256]LogSavePackage: Moving output files for package: /Game/Sprites/PeaShooter/Flipbooks/SunIdle
+[2026.09.25-18.25.47:374][256]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SunIdle113E8A334E8C90DEDBBD5483B371730B.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Sprites/PeaShooter/Flipbooks/SunIdle.uasset'
+[2026.09.25-18.25.47:374][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.701 ms (total: 2.44 sec)
+[2026.09.25-18.25.47:423][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.09.25-18.25.47:448][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.09.25-18.25.47:470][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.09.25-18.25.47:492][256]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.09.25-18.25.47:492][256]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.25.47:492][256]LogContentValidation: Enabled validators:
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.25.47:492][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.25.47:492][256]AssetCheck: /Game/Sprites/PeaShooter/Flipbooks/SunIdle Validating asset
+[2026.09.25-18.25.47:503][256]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.25-18.25.51:110][663]LogSlate: Window 'Content Browser' being destroyed
+[2026.09.25-18.25.51:114][663]LogSlate: Window 'Content Browser' being destroyed
+[2026.09.25-18.26.06:753][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer
+[2026.09.25-18.26.06:753][371]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.09.25-18.26.08:471][537]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.26.08:471][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.26.08:486][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer
+[2026.09.25-18.26.08:487][537]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.09.25-18.26.08:876][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.25-18.26.37:763][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.09.25-18.26.38:288][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.26.38:344][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.26.38:344][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.26.38:344][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Producer" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset" SILENT=true
+[2026.09.25-18.26.38:352][885]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Producer
+[2026.09.25-18.26.38:353][885]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer71BCB04C496C50CE6ACE8591027FA10F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset'
+[2026.09.25-18.26.38:358][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.912 ms (total: 2.51 sec)
+[2026.09.25-18.26.38:407][885]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.26.38:407][885]LogContentValidation: Enabled validators:
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.26.38:407][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.26.38:407][885]AssetCheck: /Game/Blueprints/BP_Plant_Producer Validating asset
+[2026.09.25-18.26.54:771][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer_C
+[2026.09.25-18.26.54:772][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer_C
+[2026.09.25-18.26.54:773][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer as actor: BP_Plant_Producer_C /Game/Maps/Lawn_Test.Lawn_Test:PersistentLevel.BP_Plant_Producer_C_0
+[2026.09.25-18.26.54:774][653]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer as actor: BP_Plant_Producer_C /Game/Maps/Lawn_Test.Lawn_Test:PersistentLevel.BP_Plant_Producer_C_0
+[2026.09.25-18.26.54:777][653]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.25-18.26.56:257][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-18.26.56:263][827]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.09.25-18.26.56:269][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer_C
+[2026.09.25-18.26.56:269][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer_C
+[2026.09.25-18.26.56:271][827]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer as actor: BP_Plant_Producer_C /Game/Maps/Lawn_Test.Lawn_Test:PersistentLevel.BP_Plant_Producer_C_1
+[2026.09.25-18.26.56:272][827]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Plant_Producer.BP_Plant_Producer as actor: BP_Plant_Producer_C /Game/Maps/Lawn_Test.Lawn_Test:PersistentLevel.BP_Plant_Producer_C_1
+[2026.09.25-18.26.57:661][983]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.26.57:668][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.26.57:699][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.26.57:701][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002085s)
+[2026.09.25-18.26.57:701][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002114s)
+[2026.09.25-18.26.57:726][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.25-18.26.57:728][983]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.26.57:730][983]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2026.09.25-18.26.57:731][983]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.26.57:731][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.26.57:731][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.26.57:731][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.26.57:731][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.26.57:731][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.26.57:733][983]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.26.57:750][983]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.26.57:750][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.26.57:750][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.26.57:750][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.26.57:751][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.09.25-18.26.57:751][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.09.25-18.26.57:753][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.09.25-18.26.57:753][983]LogInit: FAudioDevice initialized with ID 20.
+[2026.09.25-18.26.57:753][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.09.25-18.26.57:753][983]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lawn_Test'.
+[2026.09.25-18.26.57:753][983]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.09.25-18.26.57:756][983]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.26.57:757][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.26.57
+[2026.09.25-18.26.57:757][983]LogWorld: Bringing up level for play took: 0.000649
+[2026.09.25-18.26.57:759][983]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.09.25-18.26.57:766][983]PIE: Server logged in
+[2026.09.25-18.26.57:767][983]PIE: Play in editor total start time 0.103 seconds.
+[2026.09.25-18.26.57:824][984]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.27.01:020][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.01:020][355]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.27.01:020][355]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.27.01:020][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.01:022][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.27.01:027][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.01:050][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.01:051][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.09.25-18.27.01:051][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.09.25-18.27.01:053][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.09.25-18.27.01:059][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.09.25-18.27.01:095][356]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.09.25-18.27.02:320][501]Cmd: DELETE
+[2026.09.25-18.27.02:320][501]Cmd: ACTOR DELETE
+[2026.09.25-18.27.02:324][501]LogEditorActor: Deleted Actor: BP_Plant_Producer_C
+[2026.09.25-18.27.02:348][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-18.27.02:351][501]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.09.25-18.27.03:919][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.27.03:924][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.27.03:970][687]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.27.03:972][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002277s)
+[2026.09.25-18.27.03:972][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002316s)
+[2026.09.25-18.27.03:995][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.09.25-18.27.03:998][687]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.27.03:999][687]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2026.09.25-18.27.04:000][687]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.27.04:000][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.27.04:000][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.27.04:000][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.27.04:000][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.27.04:000][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.27.04:002][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.27.04:016][687]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.27.04:016][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.27.04:016][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.27.04:016][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.27.04:016][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.09.25-18.27.04:016][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.09.25-18.27.04:019][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.09.25-18.27.04:019][687]LogInit: FAudioDevice initialized with ID 21.
+[2026.09.25-18.27.04:019][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.09.25-18.27.04:019][687]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lawn_Test'.
+[2026.09.25-18.27.04:019][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.09.25-18.27.04:023][687]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.27.04:024][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.27.04
+[2026.09.25-18.27.04:024][687]LogWorld: Bringing up level for play took: 0.000515
+[2026.09.25-18.27.04:026][687]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.09.25-18.27.04:034][687]PIE: Server logged in
+[2026.09.25-18.27.04:035][687]PIE: Play in editor total start time 0.112 seconds.
+[2026.09.25-18.27.04:096][688]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.27.10:180][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.10:180][407]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.27.10:180][407]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.27.10:181][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.10:182][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.27.10:187][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.10:210][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.10:210][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.09.25-18.27.10:210][407]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.09.25-18.27.10:212][407]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.09.25-18.27.10:219][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.25-18.27.10:253][409]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.09.25-18.27.24:389][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-18.27.25:212][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.27.25:261][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.27.25:261][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.27.25:261][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Producer" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset" SILENT=true
+[2026.09.25-18.27.25:270][141]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Producer
+[2026.09.25-18.27.25:270][141]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer0F52123C4CC8D65F6DC1B68E1FAEC2BF.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset'
+[2026.09.25-18.27.25:276][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.876 ms (total: 2.58 sec)
+[2026.09.25-18.27.25:328][141]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.27.25:328][141]LogContentValidation: Enabled validators:
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.27.25:328][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.27.25:328][141]AssetCheck: /Game/Blueprints/BP_Plant_Producer Validating asset
+[2026.09.25-18.27.26:511][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.27.26:516][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.27.26:540][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.27.26:542][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2026.09.25-18.27.26:542][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.001950s)
+[2026.09.25-18.27.26:566][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.09.25-18.27.26:571][278]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.27.26:572][278]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2026.09.25-18.27.26:573][278]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.27.26:573][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.27.26:573][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.27.26:573][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.27.26:573][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.27.26:573][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.27.26:575][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.27.26:588][278]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.27.26:588][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.27.26:588][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.27.26:588][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.27.26:588][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.09.25-18.27.26:588][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.09.25-18.27.26:591][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.09.25-18.27.26:591][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.09.25-18.27.26:591][278]LogInit: FAudioDevice initialized with ID 22.
+[2026.09.25-18.27.26:591][278]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lawn_Test'.
+[2026.09.25-18.27.26:591][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.09.25-18.27.26:594][278]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.27.26:595][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.27.26
+[2026.09.25-18.27.26:595][278]LogWorld: Bringing up level for play took: 0.000578
+[2026.09.25-18.27.26:597][278]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.09.25-18.27.26:605][278]PIE: Server logged in
+[2026.09.25-18.27.26:607][278]PIE: Play in editor total start time 0.09 seconds.
+[2026.09.25-18.27.26:667][279]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.27.38:707][718]LogBlueprintUserMessages: [BP_ZombieBase_C_0] AttackingTime
+[2026.09.25-18.27.39:707][838]LogBlueprintUserMessages: [BP_ZombieBase_C_0] dead
+[2026.09.25-18.27.39:708][838]LogScript: Warning: Accessed None trying to read (real) property OwningTile in BP_PlantBase_C
+	BP_ZombieBase_C /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test:PersistentLevel.BP_ZombieBase_C_0
+	Function /Game/Blueprints/BP_ZombieBase.BP_ZombieBase_C:ExecuteUbergraph_BP_ZombieBase:0155
+[2026.09.25-18.27.39:708][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property OwningTile in BP_PlantBase_C". Node:  Set IsOccupied Graph:  EventGraph Function:  Execute Ubergraph BP Zombie Base Blueprint:  BP_ZombieBase
+[2026.09.25-18.27.39:708][838]LogScript: Warning: Accessed None trying to read (real) property OwningTile in BP_PlantBase_C
+	BP_ZombieBase_C /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test:PersistentLevel.BP_ZombieBase_C_0
+	Function /Game/Blueprints/BP_ZombieBase.BP_ZombieBase_C:ExecuteUbergraph_BP_ZombieBase:018E
+[2026.09.25-18.27.39:708][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property OwningTile in BP_PlantBase_C". Node:  Set PlantOnTile Graph:  EventGraph Function:  Execute Ubergraph BP Zombie Base Blueprint:  BP_ZombieBase
+[2026.09.25-18.27.39:708][838]LogScript: Warning: Accessed None attempting to assign variable on an object
+	BP_ZombieBase_C /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test:PersistentLevel.BP_ZombieBase_C_0
+	Function /Game/Blueprints/BP_ZombieBase.BP_ZombieBase_C:ExecuteUbergraph_BP_ZombieBase:01A3
+[2026.09.25-18.27.39:708][838]PIE: Error: Blueprint Runtime Error: "Accessed None attempting to assign variable on an object". Node:  Set PlantOnTile Graph:  EventGraph Function:  Execute Ubergraph BP Zombie Base Blueprint:  BP_ZombieBase
+[2026.09.25-18.27.39:708][838]LogBlueprintUserMessages: [BP_ZombieBase_C_0] MovingAgain
+[2026.09.25-18.27.42:811][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.42:811][203]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.27.42:812][203]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.27.42:812][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.42:813][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.27.42:819][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.27.42:839][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.27.42:839][203]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.09.25-18.27.42:839][203]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.09.25-18.27.42:842][203]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.09.25-18.27.42:849][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.09.25-18.27.42:988][204]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.09.25-18.28.15:437][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.25-18.28.15:455][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Lawn_Test_Auto4
+[2026.09.25-18.28.15:455][319]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Lawn_Test_Auto443F178BB4373D429F77DB48B06894A95.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Maps/Lawn_Test_Auto4.umap'
+[2026.09.25-18.28.15:456][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lawn_Test' took 0.044
+[2026.09.25-18.28.15:457][319]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2026.09.25-18.28.15:457][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet] ([1] browsable assets)...
+[2026.09.25-18.28.15:460][319]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/SunFlower/Sunflower_Idle_spritesheet.Sunflower_Idle_spritesheet]
+[2026.09.25-18.28.15:460][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet]
+[2026.09.25-18.28.15:466][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet_Auto4
+[2026.09.25-18.28.15:466][319]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Sunflower_Idle_spritesheet_Auto4D53EE05143D34B62E1A466B23F1CFAC5.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Sprites/SunFlower/Sunflower_Idle_spritesheet_Auto4.uasset'
+[2026.09.25-18.28.15:467][319]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.09.25-18.28.37:924][ 96]LogSlate: Window 'Message Log' being destroyed
+[2026.09.25-18.28.37:930][ 96]LogSlate: Window 'Message Log' being destroyed
+[2026.09.25-18.28.53:828][922]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GridTile.BP_GridTile
+[2026.09.25-18.28.53:828][922]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.09.25-18.29.48:401][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5114.894531
+[2026.09.25-18.29.48:578][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.29.48:578][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5115.052246, Update Interval: 357.954651
+[2026.09.25-18.30.23:693][738]LogBlueprint: Error: [AssetLog] C:\Users\Neutron Lab\Documents\PVZGameJam1\PVZ99\Content\Blueprints\BP_GridTile.uasset: [Compiler] This blueprint (self) is not a BP_Plant_Shooter_C, therefore ' Target ' must have a connection.
+[2026.09.25-18.30.23:694][738]LogBlueprint: Error: [AssetLog] C:\Users\Neutron Lab\Documents\PVZGameJam1\PVZ99\Content\Blueprints\BP_GridTile.uasset: [Compiler] Variable node  Set PlantLane  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.09.25-18.30.23:697][738]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.25-18.30.23:758][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.09.25-18.31.07:478][735]LogUVisualStudioToolsBlueprintBreakpointExtension: Node is not a UK2Node_CallFunction
+[2026.09.25-18.31.08:878][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-18.31.09:498][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.31.09:555][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-18.31.09:555][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-18.31.09:555][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-18.31.09:566][948]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-18.31.09:566][948]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile1EF1BE1243C39C8355E79B8142BA20D4.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-18.31.09:573][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.277 ms (total: 2.65 sec)
+[2026.09.25-18.31.09:621][948]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.31.09:621][948]LogContentValidation: Enabled validators:
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.31.09:621][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.31.09:621][948]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-18.31.10:372][ 37]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.31.10:379][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.31.10:379][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.31.10:381][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001916s)
+[2026.09.25-18.31.10:381][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.001947s)
+[2026.09.25-18.31.10:408][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.25-18.31.10:413][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.31.10:414][ 37]LogPlayLevel: PIE: World Init took: (0.001482s)
+[2026.09.25-18.31.10:415][ 37]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.31.10:415][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.31.10:415][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.31.10:415][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.31.10:415][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.31.10:415][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.31.10:417][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.31.10:432][ 37]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.31.10:432][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.31.10:432][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.31.10:432][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.31.10:433][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.09.25-18.31.10:433][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.09.25-18.31.10:435][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.09.25-18.31.10:435][ 37]LogInit: FAudioDevice initialized with ID 23.
+[2026.09.25-18.31.10:435][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.09.25-18.31.10:435][ 37]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lawn_Test'.
+[2026.09.25-18.31.10:435][ 37]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.09.25-18.31.10:487][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.31.10:487][ 37]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.31.10:488][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.31.10
+[2026.09.25-18.31.10:488][ 37]LogWorld: Bringing up level for play took: 0.000739
+[2026.09.25-18.31.10:490][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.09.25-18.31.10:490][ 37]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.09.25-18.31.10:501][ 37]PIE: Server logged in
+[2026.09.25-18.31.10:501][ 37]PIE: Play in editor total start time 0.125 seconds.
+[2026.09.25-18.31.10:577][ 38]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.31.15:360][599]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-18.31.15:668][636]LogBlueprintUserMessages: [BP_PeaProjectile_C_0] 80.0
+[2026.09.25-18.31.16:859][779]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-18.31.17:085][806]LogBlueprintUserMessages: [BP_PeaProjectile_C_1] 60.0
+[2026.09.25-18.31.18:360][959]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-18.31.18:493][975]LogBlueprintUserMessages: [BP_PeaProjectile_C_2] 40.0
+[2026.09.25-18.31.19:860][139]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-18.31.19:901][144]LogBlueprintUserMessages: [BP_PeaProjectile_C_3] 20.0
+[2026.09.25-18.31.20:810][253]LogBlueprintUserMessages: [BP_Plant_Shooter_C_1] Pea Spawned
+[2026.09.25-18.31.21:093][287]LogBlueprintUserMessages: [BP_PeaProjectile_C_4] 80.0
+[2026.09.25-18.31.21:360][319]LogBlueprintUserMessages: [BP_PeaProjectile_C_5] 0.0
+[2026.09.25-18.31.21:360][319]LogBlueprintUserMessages: [BP_Plant_Shooter_C_0] Pea Spawned
+[2026.09.25-18.31.22:311][433]LogBlueprintUserMessages: [BP_Plant_Shooter_C_1] Pea Spawned
+[2026.09.25-18.31.22:502][456]LogBlueprintUserMessages: [BP_PeaProjectile_C_6] 60.0
+[2026.09.25-18.31.23:811][613]LogBlueprintUserMessages: [BP_Plant_Shooter_C_1] Pea Spawned
+[2026.09.25-18.31.23:918][626]LogBlueprintUserMessages: [BP_PeaProjectile_C_7] 40.0
+[2026.09.25-18.31.25:311][793]LogBlueprintUserMessages: [BP_Plant_Shooter_C_1] Pea Spawned
+[2026.09.25-18.31.25:326][795]LogBlueprintUserMessages: [BP_PeaProjectile_C_8] 20.0
+[2026.09.25-18.31.26:385][922]LogBlueprintUserMessages: [BP_ZombieBase_C_1] AttackingTime
+[2026.09.25-18.31.26:811][973]LogBlueprintUserMessages: [BP_PeaProjectile_C_9] 0.0
+[2026.09.25-18.31.26:811][973]LogBlueprintUserMessages: [BP_Plant_Shooter_C_1] Pea Spawned
+[2026.09.25-18.31.27:385][ 42]LogBlueprintUserMessages: [BP_ZombieBase_C_1] dead
+[2026.09.25-18.31.27:385][ 42]LogBlueprintUserMessages: [BP_ZombieBase_C_1] MovingAgain
+[2026.09.25-18.31.31:336][516]LogBlueprintUserMessages: [BP_Plant_Shooter_C_2] Pea Spawned
+[2026.09.25-18.31.31:553][542]LogBlueprintUserMessages: [BP_PeaProjectile_C_10] 80.0
+[2026.09.25-18.31.32:811][693]LogBlueprintUserMessages: [BP_Plant_Shooter_C_3] Pea Spawned
+[2026.09.25-18.31.32:836][696]LogBlueprintUserMessages: [BP_Plant_Shooter_C_2] Pea Spawned
+[2026.09.25-18.31.32:961][711]LogBlueprintUserMessages: [BP_PeaProjectile_C_12] 60.0
+[2026.09.25-18.31.33:494][775]LogBlueprintUserMessages: [BP_PeaProjectile_C_11] 80.0
+[2026.09.25-18.31.34:311][873]LogBlueprintUserMessages: [BP_Plant_Shooter_C_3] Pea Spawned
+[2026.09.25-18.31.34:336][876]LogBlueprintUserMessages: [BP_Plant_Shooter_C_2] Pea Spawned
+[2026.09.25-18.31.34:377][881]LogBlueprintUserMessages: [BP_PeaProjectile_C_14] 40.0
+[2026.09.25-18.31.34:903][944]LogBlueprintUserMessages: [BP_PeaProjectile_C_13] 60.0
+[2026.09.25-18.31.35:445][  9]LogBlueprintUserMessages: [BP_Plant_Shooter_C_4] Pea Spawned
+[2026.09.25-18.31.35:786][ 50]LogBlueprintUserMessages: [BP_ZombieBase_C_2] AttackingTime
+[2026.09.25-18.31.35:812][ 53]LogBlueprintUserMessages: [BP_Plant_Shooter_C_3] Pea Spawned
+[2026.09.25-18.31.35:837][ 56]LogBlueprintUserMessages: [BP_PeaProjectile_C_17] 20.0
+[2026.09.25-18.31.35:837][ 56]LogBlueprintUserMessages: [BP_Plant_Shooter_C_2] Pea Spawned
+[2026.09.25-18.31.36:011][ 77]LogBlueprintUserMessages: [BP_PeaProjectile_C_15] 80.0
+[2026.09.25-18.31.36:320][114]LogBlueprintUserMessages: [BP_PeaProjectile_C_16] 40.0
+[2026.09.25-18.31.36:786][170]LogBlueprintUserMessages: [BP_ZombieBase_C_2] dead
+[2026.09.25-18.31.36:786][170]LogBlueprintUserMessages: [BP_ZombieBase_C_2] MovingAgain
+[2026.09.25-18.31.36:945][189]LogBlueprintUserMessages: [BP_Plant_Shooter_C_4] Pea Spawned
+[2026.09.25-18.31.37:312][233]LogBlueprintUserMessages: [BP_Plant_Shooter_C_3] Pea Spawned
+[2026.09.25-18.31.37:419][246]LogBlueprintUserMessages: [BP_PeaProjectile_C_18] 60.0
+[2026.09.25-18.31.37:728][283]LogBlueprintUserMessages: [BP_PeaProjectile_C_19] 20.0
+[2026.09.25-18.31.38:445][369]LogBlueprintUserMessages: [BP_Plant_Shooter_C_4] Pea Spawned
+[2026.09.25-18.31.38:812][413]LogBlueprintUserMessages: [BP_Plant_Shooter_C_3] Pea Spawned
+[2026.09.25-18.31.38:828][415]LogBlueprintUserMessages: [BP_PeaProjectile_C_20] 40.0
+[2026.09.25-18.31.39:144][453]LogBlueprintUserMessages: [BP_PeaProjectile_C_21] 0.0
+[2026.09.25-18.31.39:945][549]LogBlueprintUserMessages: [BP_Plant_Shooter_C_4] Pea Spawned
+[2026.09.25-18.31.40:244][585]LogBlueprintUserMessages: [BP_PeaProjectile_C_22] 20.0
+[2026.09.25-18.31.41:445][729]LogBlueprintUserMessages: [BP_Plant_Shooter_C_4] Pea Spawned
+[2026.09.25-18.31.41:653][754]LogBlueprintUserMessages: [BP_PeaProjectile_C_23] 0.0
+[2026.09.25-18.31.46:769][365]LogBlueprintUserMessages: [BP_ZombieBase_C_2] AttackingTime
+[2026.09.25-18.31.47:769][485]LogBlueprintUserMessages: [BP_ZombieBase_C_2] dead
+[2026.09.25-18.31.47:769][485]LogBlueprintUserMessages: [BP_ZombieBase_C_2] MovingAgain
+[2026.09.25-18.31.49:843][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.31.49:843][728]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.31.49:843][728]LogSlate: Window 'PVZ99 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.09.25-18.31.49:848][728]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.31.49:848][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.31.49:849][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.31.49:854][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.31.49:878][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.25-18.31.49:879][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.09.25-18.31.49:879][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.09.25-18.31.49:881][728]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.09.25-18.31.49:887][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.09.25-18.31.49:913][730]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.09.25-18.31.51:385][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-18.31.51:775][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.31.51:822][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-18.31.51:822][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-18.31.51:822][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-18.31.51:833][929]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-18.31.51:833][929]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTile4501DD2F47087F77CC8825BB2E4B7101.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-18.31.51:839][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.461 ms (total: 2.72 sec)
+[2026.09.25-18.31.51:888][929]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.31.51:888][929]LogContentValidation: Enabled validators:
+[2026.09.25-18.31.51:888][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.31.51:889][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.31.51:889][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.31.51:889][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.31.51:889][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.31.51:889][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.31.51:889][929]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-18.32.09:570][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.25-18.32.10:154][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.32.10:206][149]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GridTile] ([2] browsable assets)...
+[2026.09.25-18.32.10:206][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GridTile]
+[2026.09.25-18.32.10:206][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridTile" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset" SILENT=true
+[2026.09.25-18.32.10:219][149]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GridTile
+[2026.09.25-18.32.10:219][149]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_GridTileE327ABC64225591BB1F14B892F0ADD5D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_GridTile.uasset'
+[2026.09.25-18.32.10:226][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.377 ms (total: 2.79 sec)
+[2026.09.25-18.32.10:274][149]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.32.10:274][149]LogContentValidation: Enabled validators:
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.32.10:274][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.32.10:275][149]AssetCheck: /Game/Blueprints/BP_GridTile Validating asset
+[2026.09.25-18.32.20:347][201]LogContentBrowser: Attempting asset rename: BP_PlayerController -> BP_PlayerController
+[2026.09.25-18.32.20:654][225]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController
+[2026.09.25-18.32.20:654][225]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.09.25-18.32.34:862][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.09.25-18.32.38:543][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.09.25-18.32.39:086][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.32.39:142][284]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.32.39:142][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.32.39:142][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.32.39:151][284]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.32.39:152][284]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerControllerE508D2F2455517A5D2211897DE729462.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.32.39:157][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.340 ms (total: 2.86 sec)
+[2026.09.25-18.32.39:190][284]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.32.39:190][284]LogContentValidation: Enabled validators:
+[2026.09.25-18.32.39:190][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.32.39:190][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.32.39:190][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.32.39:190][284]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.32.39:190][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.32.39:191][284]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.32.39:191][284]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.36.10:585][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.09.25-18.36.11:261][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.36.11:318][257]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.36.11:318][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.36.11:318][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.36.11:329][257]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.36.11:329][257]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerController3A16136142BB5F7CAF7390886C753154.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.36.11:336][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.236 ms (total: 2.94 sec)
+[2026.09.25-18.36.11:384][257]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.36.11:384][257]LogContentValidation: Enabled validators:
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.36.11:384][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.36.11:384][257]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.36.26:919][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5513.399414
+[2026.09.25-18.36.27:068][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.36.27:069][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5513.540527, Update Interval: 316.234619
+[2026.09.25-18.38.33:809][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.09.25-18.38.48:853][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.09.25-18.38.50:480][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.38.50:525][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.38.50:525][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.38.50:525][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.38.50:535][835]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.38.50:535][835]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerController2BD05C2446677E6EE3C3248C1516D7E7.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.38.50:540][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.248 ms (total: 3.00 sec)
+[2026.09.25-18.38.50:574][835]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.38.50:574][835]LogContentValidation: Enabled validators:
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.38.50:574][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.38.50:574][835]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.39.29:661][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.09.25-18.39.30:435][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.39.30:494][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.39.30:494][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.39.30:494][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Producer" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset" SILENT=true
+[2026.09.25-18.39.30:504][287]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Producer
+[2026.09.25-18.39.30:504][287]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_ProducerDA9CA12A4341333CB35567ACC90BC35C.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset'
+[2026.09.25-18.39.30:510][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.058 ms (total: 3.07 sec)
+[2026.09.25-18.39.30:560][287]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.39.30:560][287]LogContentValidation: Enabled validators:
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.39.30:560][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.39.30:560][287]AssetCheck: /Game/Blueprints/BP_Plant_Producer Validating asset
+[2026.09.25-18.40.18:419][351]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.40.18:419][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.40.18:525][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.09.25-18.40.53:037][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.09.25-18.40.53:586][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.40.53:649][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.40.53:649][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.40.53:649][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.40.53:659][511]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.40.53:659][511]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerControllerF50F4D114276B56065EAAC8D7CE2BD9A.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.40.53:667][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.654 ms (total: 3.15 sec)
+[2026.09.25-18.40.53:698][511]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.40.53:698][511]LogContentValidation: Enabled validators:
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.40.53:698][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.40.53:698][511]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.40.55:830][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-18.40.55:830][762]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.40.55:830][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.40.55:901][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-18.40.57:613][956]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-18.40.57:614][956]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.40.57:614][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.40.57:668][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.25-18.40.59:913][221]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.09.25-18.40.59:913][221]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.40.59:913][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.41.00:028][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.09.25-18.42.39:920][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.09.25-18.42.40:402][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5886.936035
+[2026.09.25-18.42.40:518][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.42.40:569][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.42.40:569][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.42.40:569][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Plant_Producer" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset" SILENT=true
+[2026.09.25-18.42.40:578][952]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Plant_Producer
+[2026.09.25-18.42.40:579][952]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer6A6B057E4898F3750B9F22A38F365F3F.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_Plant_Producer.uasset'
+[2026.09.25-18.42.40:585][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.187 ms (total: 3.22 sec)
+[2026.09.25-18.42.40:618][952]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.42.40:618][952]LogContentValidation: Enabled validators:
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.42.40:618][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.42.40:618][952]AssetCheck: /Game/Blueprints/BP_Plant_Producer Validating asset
+[2026.09.25-18.42.40:731][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.42.40:731][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5887.256836, Update Interval: 305.504333
+[2026.09.25-18.44.27:567][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.25-18.44.27:573][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lawn_Test' took 0.031
+[2026.09.25-18.44.27:574][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.44.27:574][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.44.27:582][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Plant_Producer_Auto5
+[2026.09.25-18.44.27:582][810]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer_Auto5DB256A3845116F068D0FFCBDA210596A.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Blueprints/BP_Plant_Producer_Auto5.uasset'
+[2026.09.25-18.44.27:583][810]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.09.25-18.46.49:151][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.09.25-18.46.49:807][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.46.49:862][640]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.46.49:863][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.46.49:863][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.46.49:874][640]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.46.49:874][640]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerController6E1B3DD943FF7CB26EF5EF920A72B01C.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.46.49:881][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.785 ms (total: 3.29 sec)
+[2026.09.25-18.46.49:930][640]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.46.49:930][640]LogContentValidation: Enabled validators:
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.46.49:930][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.46.49:931][640]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.46.50:906][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.46.50:912][749]LogPlayLevel: [PlayLevel] Compiling BP_Plant_Producer before play...
+[2026.09.25-18.46.50:954][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.09.25-18.46.50:959][749]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2026.09.25-18.46.50:984][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.46.50:986][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2026.09.25-18.46.50:986][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002152s)
+[2026.09.25-18.46.51:005][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.09.25-18.46.51:007][749]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.46.51:008][749]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2026.09.25-18.46.51:009][749]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.46.51:009][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.46.51:009][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.46.51:009][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.46.51:009][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.46.51:009][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.46.51:012][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.46.51:025][749]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.46.51:025][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.46.51:025][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.46.51:026][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.46.51:026][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.09.25-18.46.51:026][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.09.25-18.46.51:028][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.09.25-18.46.51:028][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.09.25-18.46.51:028][749]LogInit: FAudioDevice initialized with ID 24.
+[2026.09.25-18.46.51:028][749]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lawn_Test'.
+[2026.09.25-18.46.51:028][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.09.25-18.46.51:032][749]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.46.51:032][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.46.51
+[2026.09.25-18.46.51:032][749]LogWorld: Bringing up level for play took: 0.000507
+[2026.09.25-18.46.51:034][749]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.09.25-18.46.51:042][749]PIE: Server logged in
+[2026.09.25-18.46.51:043][749]PIE: Play in editor total start time 0.132 seconds.
+[2026.09.25-18.46.51:101][750]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.46.57:237][482]LogBlueprintUserMessages: [BP_PlayerController_C_0] 125
+[2026.09.25-18.47.02:238][ 82]LogBlueprintUserMessages: [BP_PlayerController_C_0] 150
+[2026.09.25-18.47.07:241][682]LogBlueprintUserMessages: [BP_PlayerController_C_0] 175
+[2026.09.25-18.47.09:635][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.47.09:635][964]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.47.09:635][964]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.47.09:636][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.47.09:636][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.47.09:642][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.47.09:665][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.47.09:666][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.09.25-18.47.09:666][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.09.25-18.47.09:668][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.09.25-18.47.09:674][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.09.25-18.47.09:699][965]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.09.25-18.47.10:473][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.47.10:478][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.47.10:505][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.47.10:506][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001889s)
+[2026.09.25-18.47.10:506][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.001920s)
+[2026.09.25-18.47.10:530][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.09.25-18.47.10:533][ 55]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.47.10:534][ 55]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2026.09.25-18.47.10:535][ 55]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.47.10:535][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.47.10:535][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.47.10:535][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.47.10:535][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.47.10:535][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.47.10:537][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.47.10:550][ 55]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.47.10:551][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.47.10:551][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.47.10:551][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.47.10:551][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.09.25-18.47.10:551][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.09.25-18.47.10:553][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.09.25-18.47.10:553][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.09.25-18.47.10:553][ 55]LogInit: FAudioDevice initialized with ID 25.
+[2026.09.25-18.47.10:553][ 55]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lawn_Test'.
+[2026.09.25-18.47.10:553][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.09.25-18.47.10:556][ 55]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.47.10:557][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.47.10
+[2026.09.25-18.47.10:557][ 55]LogWorld: Bringing up level for play took: 0.000516
+[2026.09.25-18.47.10:559][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.09.25-18.47.10:566][ 55]PIE: Server logged in
+[2026.09.25-18.47.10:568][ 55]PIE: Play in editor total start time 0.09 seconds.
+[2026.09.25-18.47.10:626][ 56]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.47.17:848][918]LogBlueprintUserMessages: [BP_PlayerController_C_0] 125
+[2026.09.25-18.47.22:848][518]LogBlueprintUserMessages: [BP_PlayerController_C_0] 150
+[2026.09.25-18.47.25:956][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.47.25:956][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.47.25:956][885]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.47.25:956][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.47.25:957][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.47.25:963][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.47.25:985][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.47.25:985][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.09.25-18.47.25:985][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.09.25-18.47.25:987][885]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.09.25-18.47.25:994][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.25-18.47.26:056][887]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.09.25-18.48.16:295][404]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.09.25-18.48.27:624][260]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.09.25-18.48.27:631][260]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.09.25-18.48.27:638][260]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.09.25-18.48.27:656][261]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.09.25-18.48.33:689][974]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_SunCounter
+[2026.09.25-18.48.33:696][974]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.09.25-18.48.35:214][121]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_SunCounter.WBP_SunCounter
+[2026.09.25-18.48.35:215][121]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.09.25-18.48.35:220][121]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.09.25-18.48.35:226][121]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.09.25-18.48.35:821][121]LogSlate: Took 0.005408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.09.25-18.48.44:923][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6251.443359
+[2026.09.25-18.48.45:923][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.48.45:923][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6252.109375, Update Interval: 351.260101
+[2026.09.25-18.50.19:017][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.09.25-18.50.19:627][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.50.19:673][477]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_SunCounter] ([2] browsable assets)...
+[2026.09.25-18.50.19:675][477]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_SunCounter.WBP_SunCounter]
+[2026.09.25-18.50.19:676][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_SunCounter]
+[2026.09.25-18.50.19:676][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_SunCounter" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset" SILENT=true
+[2026.09.25-18.50.19:683][477]LogSavePackage: Moving output files for package: /Game/UI/WBP_SunCounter
+[2026.09.25-18.50.19:683][477]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/WBP_SunCounter949F4FE14831313AABBF5D9F142B0AF8.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset'
+[2026.09.25-18.50.19:695][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.291 ms (total: 3.36 sec)
+[2026.09.25-18.50.19:740][477]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.50.19:740][477]LogContentValidation: Enabled validators:
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.50.19:740][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.50.19:740][477]AssetCheck: /Game/UI/WBP_SunCounter Validating asset
+[2026.09.25-18.50.19:768][477]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.25-18.50.21:359][644]LogSlate: Window 'WBP_SunCounter' being destroyed
+[2026.09.25-18.52.12:867][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.09.25-18.52.13:451][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.52.13:512][548]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_SunCounter] ([2] browsable assets)...
+[2026.09.25-18.52.13:514][548]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_SunCounter.WBP_SunCounter]
+[2026.09.25-18.52.13:514][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_SunCounter]
+[2026.09.25-18.52.13:514][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_SunCounter" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset" SILENT=true
+[2026.09.25-18.52.13:523][548]LogSavePackage: Moving output files for package: /Game/UI/WBP_SunCounter
+[2026.09.25-18.52.13:523][548]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/WBP_SunCounterDF2AEA294583BA89FA2DCCA1CBFECB60.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset'
+[2026.09.25-18.52.13:531][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.822 ms (total: 3.44 sec)
+[2026.09.25-18.52.13:578][548]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.52.13:578][548]LogContentValidation: Enabled validators:
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.52.13:578][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.52.13:578][548]AssetCheck: /Game/UI/WBP_SunCounter Validating asset
+[2026.09.25-18.54.52:773][455]LogUVisualStudioToolsBlueprintBreakpointExtension: Trying to get function definition for AddToViewport
+[2026.09.25-18.54.57:374][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.09.25-18.54.58:200][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.54.58:252][ 76]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.54.58:252][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.54.58:252][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.54.58:264][ 76]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.54.58:264][ 76]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerControllerD8E3CFF24643236B9C4A76B3CA057BAB.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.54.58:271][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.238 ms (total: 3.51 sec)
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: Enabled validators:
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.54.58:326][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.54.58:326][ 76]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.54.59:770][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.54.59:774][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.54.59:796][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.54.59:799][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002101s)
+[2026.09.25-18.54.59:799][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002135s)
+[2026.09.25-18.54.59:821][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.09.25-18.54.59:827][238]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.54.59:829][238]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2026.09.25-18.54.59:829][238]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.09.25-18.54.59:829][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.54.59:829][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.54.59:829][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.54.59:829][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.54.59:829][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.54.59:830][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.54.59:830][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.54.59:830][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.54.59:830][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.54.59:830][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.54.59:830][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.54.59:832][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.54.59:846][238]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.54.59:847][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.54.59:847][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.54.59:847][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.54.59:847][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.09.25-18.54.59:847][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.09.25-18.54.59:849][238]LogInit: FAudioDevice initialized with ID 26.
+[2026.09.25-18.54.59:849][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.09.25-18.54.59:849][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.09.25-18.54.59:849][238]LogAudio: Display: Audio Device (ID: 26) registered with world 'Lawn_Test'.
+[2026.09.25-18.54.59:849][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.09.25-18.54.59:853][238]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.54.59:854][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.54.59
+[2026.09.25-18.54.59:854][238]LogWorld: Bringing up level for play took: 0.000540
+[2026.09.25-18.54.59:855][238]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.09.25-18.54.59:863][238]PIE: Server logged in
+[2026.09.25-18.54.59:865][238]PIE: Play in editor total start time 0.091 seconds.
+[2026.09.25-18.54.59:923][239]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.55.24:368][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.55.24:368][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.55.24:368][161]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.55.24:368][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.55.24:369][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.55.24:375][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.55.24:400][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.25-18.55.24:400][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.09.25-18.55.24:400][161]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.09.25-18.55.24:402][161]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.09.25-18.55.24:405][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.55.24:407][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.09.25-18.55.24:441][163]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.09.25-18.55.34:452][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6661.028320
+[2026.09.25-18.55.35:452][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-18.55.35:452][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6661.694824, Update Interval: 355.121918
+[2026.09.25-18.55.48:601][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.09.25-18.55.49:776][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.55.49:822][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_SunCounter] ([2] browsable assets)...
+[2026.09.25-18.55.49:824][251]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_SunCounter.WBP_SunCounter]
+[2026.09.25-18.55.49:824][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_SunCounter]
+[2026.09.25-18.55.49:824][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_SunCounter" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset" SILENT=true
+[2026.09.25-18.55.49:835][251]LogSavePackage: Moving output files for package: /Game/UI/WBP_SunCounter
+[2026.09.25-18.55.49:835][251]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/WBP_SunCounter225F77D1472B61164FF6E4840E3DA84D.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/UI/WBP_SunCounter.uasset'
+[2026.09.25-18.55.49:842][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.943 ms (total: 3.58 sec)
+[2026.09.25-18.55.49:889][251]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.55.49:889][251]LogContentValidation: Enabled validators:
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.55.49:889][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.55.49:889][251]AssetCheck: /Game/UI/WBP_SunCounter Validating asset
+[2026.09.25-18.55.51:515][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.09.25-18.55.51:520][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Lawn_Test' took 0.029
+[2026.09.25-18.55.51:521][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Plant_Producer] ([2] browsable assets)...
+[2026.09.25-18.55.51:521][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Plant_Producer]
+[2026.09.25-18.55.51:529][432]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Plant_Producer_Auto6
+[2026.09.25-18.55.51:529][432]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_Plant_Producer_Auto67324FD644660A183973D99BEC6207CC0.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/Autosaves/Game/Blueprints/BP_Plant_Producer_Auto6.uasset'
+[2026.09.25-18.55.51:530][432]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.09.25-18.55.52:238][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.55.52:243][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.55.52:244][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.55.52:246][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001944s)
+[2026.09.25-18.55.52:246][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.001974s)
+[2026.09.25-18.55.52:270][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.09.25-18.55.52:273][515]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.55.52:274][515]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2026.09.25-18.55.52:275][515]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.55.52:275][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.55.52:275][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.55.52:275][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.55.52:275][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.55.52:275][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.55.52:277][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.55.52:290][515]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.55.52:290][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.55.52:290][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.55.52:290][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.55.52:290][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.09.25-18.55.52:290][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.09.25-18.55.52:292][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.09.25-18.55.52:292][515]LogInit: FAudioDevice initialized with ID 27.
+[2026.09.25-18.55.52:292][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.09.25-18.55.52:292][515]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lawn_Test'.
+[2026.09.25-18.55.52:292][515]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.09.25-18.55.52:339][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.55.52:339][515]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.55.52:340][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.55.52
+[2026.09.25-18.55.52:340][515]LogWorld: Bringing up level for play took: 0.000685
+[2026.09.25-18.55.52:342][515]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.09.25-18.55.52:342][515]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.09.25-18.55.52:351][515]PIE: Server logged in
+[2026.09.25-18.55.52:352][515]PIE: Play in editor total start time 0.109 seconds.
+[2026.09.25-18.55.52:465][516]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.56.08:680][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.56.08:680][689]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.56.08:680][689]LogSlate: Window 'PVZ99 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.09.25-18.56.08:685][689]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.56.08:686][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.56.08:686][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.56.08:693][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.56.08:718][689]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.09.25-18.56.08:718][689]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.09.25-18.56.08:720][689]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.09.25-18.56.08:727][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.09.25-18.56.08:975][690]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.09.25-18.56.48:757][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.09.25-18.56.49:322][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.25-18.56.49:375][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PlayerController] ([2] browsable assets)...
+[2026.09.25-18.56.49:375][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerController]
+[2026.09.25-18.56.49:375][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2026.09.25-18.56.49:387][126]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerController
+[2026.09.25-18.56.49:387][126]LogSavePackage: Moving '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Saved/BP_PlayerController6A1A6C64433C90665D421290425568D1.tmp' to '../../../../../Users/Neutron Lab/Documents/PVZGameJam1/PVZ99/Content/Blueprints/BP_PlayerController.uasset'
+[2026.09.25-18.56.49:395][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.388 ms (total: 3.65 sec)
+[2026.09.25-18.56.49:441][126]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.25-18.56.49:441][126]LogContentValidation: Enabled validators:
+[2026.09.25-18.56.49:441][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.25-18.56.49:442][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.25-18.56.49:442][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.25-18.56.49:442][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.25-18.56.49:442][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.25-18.56.49:442][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.25-18.56.49:442][126]AssetCheck: /Game/Blueprints/BP_PlayerController Validating asset
+[2026.09.25-18.56.50:500][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.25-18.56.50:505][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.25-18.56.50:541][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.56.50:543][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001969s)
+[2026.09.25-18.56.50:543][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lawn_Test.Lawn_Test to /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test (0.002002s)
+[2026.09.25-18.56.50:567][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.09.25-18.56.50:573][248]LogChaosDD: Creating Chaos Debug Draw Scene for world Lawn_Test
+[2026.09.25-18.56.50:574][248]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2026.09.25-18.56.50:575][248]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.25-18.56.50:575][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.25-18.56.50:575][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.25-18.56.50:575][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.25-18.56.50:575][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.25-18.56.50:575][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.25-18.56.50:577][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.25-18.56.50:590][248]LogAudioMixer: Display: Using Audio Hardware Device G27-30 (NVIDIA High Definition Audio)
+[2026.09.25-18.56.50:590][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.25-18.56.50:590][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.25-18.56.50:590][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.25-18.56.50:591][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.09.25-18.56.50:591][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.09.25-18.56.50:593][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.09.25-18.56.50:593][248]LogInit: FAudioDevice initialized with ID 28.
+[2026.09.25-18.56.50:593][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.09.25-18.56.50:593][248]LogAudio: Display: Audio Device (ID: 28) registered with world 'Lawn_Test'.
+[2026.09.25-18.56.50:593][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.09.25-18.56.50:596][248]LogLoad: Game class is 'BP_GameMode_C'
+[2026.09.25-18.56.50:597][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lawn_Test.Lawn_Test up for play (max tick rate 0) at 2026.09.25-19.56.50
+[2026.09.25-18.56.50:597][248]LogWorld: Bringing up level for play took: 0.000564
+[2026.09.25-18.56.50:599][248]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.09.25-18.56.50:607][248]PIE: Server logged in
+[2026.09.25-18.56.50:608][248]PIE: Play in editor total start time 0.104 seconds.
+[2026.09.25-18.56.50:663][249]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.25-18.57.01:822][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.57.01:822][577]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lawn_Test
+[2026.09.25-18.57.01:822][577]LogWorld: UWorld::CleanupWorld for Lawn_Test, bSessionEnded=true, bCleanupResources=true
+[2026.09.25-18.57.01:823][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.57.01:824][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.25-18.57.01:830][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.25-18.57.01:852][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.25-18.57.01:852][577]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.09.25-18.57.01:852][577]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.09.25-18.57.01:854][577]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.09.25-18.57.01:859][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.25-18.57.01:862][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.09.25-18.57.01:887][578]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.09.25-19.02.05:028][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7051.611816
+[2026.09.25-19.02.06:027][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.02.06:027][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7052.278320, Update Interval: 353.752258
+[2026.09.25-19.06.20:897][345]LogDerivedDataCache: C:/Users/Neutron Lab/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.25-19.08.55:722][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7462.308594
+[2026.09.25-19.08.56:721][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.25-19.08.56:721][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7462.976562, Update Interval: 321.502747
